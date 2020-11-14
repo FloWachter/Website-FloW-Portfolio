@@ -1,0 +1,155 @@
+title: Slide - Video
+pages: false
+files: true
+options:
+  preview: false
+  status: true
+  template: true
+  url: true
+  delete: true
+
+fields:
+  
+  previewfiles:
+    type: previewfiles
+    
+  tab-a:
+    label: Content
+    type:  tabs
+
+  title:
+    label: Slide Title
+    type:  text
+
+  tab-b:
+    label: Settings
+    type:  tabs
+
+  headline-a:
+    label: Module
+    type: headline
+
+  group_a_start:
+    label: Overlay
+    type: panelgroup
+    position: start
+    accordion: true
+
+  videooverlay:
+    type:  color
+    default: 'rgba(0, 0, 0, 0.1)'
+    width: 1/1
+    opacity: true
+
+  group_a_end:
+    type: panelgroup
+    position: end
+
+  headline-b:
+    label: Title
+    type: headline
+
+  group_c_start:
+    label: Color
+    type: panelgroup
+    position: start
+    accordion: true
+
+  titlecolor:
+    label: Normal Color
+    type:  color
+    default: '#fff'
+    width: 1/1
+    opacity: true
+
+  group_c_end:
+    type: panelgroup
+    position: end
+
+  group_d_start:
+    label: Parallax
+    type: panelgroup
+    position: start
+    accordion: true
+
+  info:
+    label: Hint
+    type: info
+    text: >
+      Start (Slide animates in), Middle (Slide is centered), End (Slide animates out).
+  
+  translateX:
+    label: X Axis
+    type: text
+    default: 300, 0, 0
+    help: Animate translateX in pixels or percent. 
+    width: 1/2
+
+  translateY:
+    label: Y Axis
+    type: text
+    default: 0, 0, 0
+    help: Animate translateY in pixels or percent.
+    width: 1/2
+
+  opacity:
+    label: Opacity
+    type: text
+    default: 1, 1, 0
+    help: Animate the opacity.
+    width: 1/2
+
+  rotate:
+    label: Rotate
+    type: text
+    default: 0, 0, 0
+    help: Animate rotation clockwise in degree.
+    width: 1/2
+
+  scale:
+    label: Scaling
+    type: text
+    default: 1, 1, 1
+    help: Animate scaling.
+    width: 1/2
+
+  blur:
+    label: Blur
+    type: text
+    default: 0, 0, 0
+    help: Animate the blur filter.
+    width: 1/2
+
+  group_d_end:
+    type: panelgroup
+    position: end
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  

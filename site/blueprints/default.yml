@@ -1,0 +1,42 @@
+title: Default
+pages:
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+  hide: true
+files: false   
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: true
+
+fields:
+
+  title:
+    label: Page Title
+      tr: Başlık
+      en: Title
+    type:  text
+
+  modules:
+    label: Modules
+    type: modules
+
+    layout: base
+
+    options:
+      redirect: false
+      preview: true
+      delete: true
+      limit: null
+      edit: true
+
+
+    
+
+  
+  
+  

@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Published at arte — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: animation_01_420x270.gif
+
+----
+
+Text: 
+
+The Project Rethcaw was published as the idea of the year 2015 on “Arte Creative” and can be viewed on: <a href="../data/rethcaw" target="_blank">rethcaw</a>
+<br>
+The Project Book: <a href="http://issuu.com/florianrastabob/docs/the_video_visualization" target="_blank">The Video Visualization</a>
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

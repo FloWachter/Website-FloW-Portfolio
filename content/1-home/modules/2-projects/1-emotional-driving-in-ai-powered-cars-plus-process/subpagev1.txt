@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Emotional driving in AI-powered Cars; Driver and traffic safety
+
+----
+
+Coverimage: knight-rider_1.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1nptiv5, tl-007-r5odt4, im-002-1aluv11, tl-003-1bxh47d, im-003-jy2ngh, tl-001-1apddow, tx-009-n4aogj, im-002-wk3spc, tx-009-1uyr1z0, tl-001-u527df, im-002-1k324hd, tl-001-1hwt34s, im-002-1hih4v0, tl-001-1u8lo6q, im-002-1ctwv9g, im-002-1f3d5ku, im-002-libe8e, im-002-1wk93jd, tl-001-1wgiga3, im-002-35f7i1, im-002-sr0iuj, im-005-7ag6ux, im-002-c6w1jz, im-001-90cz6g, im-002-10ipp3z, ft-001-1tghkow, oc-001-1q7dr3d

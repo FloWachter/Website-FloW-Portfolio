@@ -1,0 +1,125 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Prototyping — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: wireframes.jpg
+
+----
+
+Text: 
+
+**Requirements**
+**—**
+We had to write non-functional and functional requirements before we could begin creating wireframes. In order to produce a structure that helped to creates the flow and lastly the structure of the wireframes.
+
+**Wireframing**
+**—**
+The wireframes were developed for four situations that we wanted to distinguish. Scan the item and set the filter for food allergies or unique preferences. A history of scanned products. If a user is fully committed to the product and registered, which will give it additional functionality. And lastly, if someone wishes to share their filters with someone else in case the other individual is purchasing products for that individual.
+
+**Hi-fi / Lo-Fi Prototyping**
+**—**
+Due to time limitations, some features have been implemented in a hi-fi prototype and some have been implemented in a lo-fi digital prototype (Click Dummy) for testing.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: no
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

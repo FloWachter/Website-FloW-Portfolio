@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Prototype 03 — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_9970_edit_edit.jpg
+
+----
+
+Text: 
+
+**Prototype 03**
+With the third prototype I dealt with the topic of dreaming. The prototype consists of a book, which can be deposited next to the bed and is therefore easily accessible. In this book there is a recording device that starts recording by pressing a button on the cover of the book. This makes it possible to record a dream in seconds. After that, if the book is opened, the dreams recorded will be played. It helps you to listen to morning recordings in the evening or during the day.
+This device is a digital dream diary, a good way to handle dreams. Documenting dreams with a recorder was perceived by the participants as substantially more effective than the paper and pen records. Only listening to one's own voice was regarded as uncomfortable.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

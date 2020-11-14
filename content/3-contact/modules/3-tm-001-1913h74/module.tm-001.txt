@@ -1,0 +1,120 @@
+Tab-a: 
+
+----
+
+Title: ME — Team-001 / There Columns - Image, Name, Position, Phone and E-Mail
+
+----
+
+Line-a: 
+
+----
+
+Teams: 
+
+- 
+  name: Florian Wachter
+  photo: img_7619-2-1.jpg
+  position: M.Sc / B.A. Interaction Designer
+  phone: ""
+  email: info@florianwachter.com
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #000000
+
+----
+
+Group-c-end: 
+
+----
+
+Layout: no
+
+----
+
+Gutters: 
+
+----
+
+Titlecolor: #000000
+
+----
+
+Positioncolor: #555555
+
+----
+
+Phonecolor: #555555
+
+----
+
+Emailcolor: #555555
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Bgblend: 
+
+----
+
+Bgblendcolor: #ffffff
+
+----
+
+Contentalign: uk-text-left

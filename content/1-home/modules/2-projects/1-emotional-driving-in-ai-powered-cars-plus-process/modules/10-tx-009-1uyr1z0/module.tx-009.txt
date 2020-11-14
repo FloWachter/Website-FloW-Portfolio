@@ -1,0 +1,107 @@
+Tab-a: 
+
+----
+
+Title: Empathise — METHODS — Text-009 / Two Columns Lead
+
+----
+
+Line-a: 
+
+----
+
+Text: 
+
+##Data gathering
+—
+_The findings of the Empathising phase got analyzed and structured into an Affinity Diagram for a better overview._
+
+In the case of anger, it got investigated that anger is a universal facial expression. This means that anger has high generalizability across cultures. Another investigation is that, according to the research, anger and stress have a connection, which is a valuable insight for further steps in this project.
+
+##The User
+—
+The investigated user belongs to the age group, described as Millennials (also known as Generation Y and born between 1980 and 2000), who grew up with electronics, the Internet and online social communities, spending 18 hours a week on their smartphone and likely to be college graduates.
+A user is a person who moved to a bigger city where his job is located. The user lives in areas where space is costly. Rents are high and it’s hard to get parking space. Cars in big cities mean commitment, because of parking place have to be rented out and insurances have to be paid. The user is more likely to avoid such commitments.
+
+##The User Needs
+—
+The investigated user needs are defined in 9 points, the most important needs are:
+• A user needs a seamless and trouble-free journey to his destination. 
+• A user needs intelligence that minimizes the user’s cognitive workload. 
+• A user needs minimal interaction.
+• A user needs support to minimize driving errors.
+
+##In-Depth Interview
+—
+_In-depth interviews are conducted with a target group (4.2.1 The User) of people within the topic. The in In-depth interviews helps to get a deeper understanding of the target group perspectives, attitude, problems, needs, ideas, or environment._
+
+I expect from the In-depth Interview to investigate which findings from Data gathering and Affinity Diagram created by literature review, Questionnaire, and the Expert Interview are coherent with the user, user’s activities and the user needs.
+In order not to waste valuable time and resources of people, a pilot study of the In-Depth Interview took place. Piloting an in-depth interview is an integral aspect and useful in the process of conducting qualitative research as it highlights the major study’s improvisation.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

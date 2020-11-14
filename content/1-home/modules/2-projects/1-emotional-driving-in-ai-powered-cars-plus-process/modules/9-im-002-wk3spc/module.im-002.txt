@@ -1,0 +1,119 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Empathise — METHODS —  Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: screenshot-2019-09-02-at-15.55.55.jpg
+
+----
+
+Text: 
+
+##Questionnaire
+—
+_Method Description: The questionnaire is a research technique to collect answers to a list of questions written about a specific topic._
+
+The questionnaire was conducted with 57 participants from Sweden, Germany, Switzerland, and Australia in an early stage of the project. A questionnaire is a greater method because of it a sure-fire success. When the questionnaire is posted or sent to individuals, I can simultaneously take other significant measures in the study stage.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

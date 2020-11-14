@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Ideate — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: iphone_scan-mockup_2.jpg
+
+----
+
+Text: 
+
+**Tech Research**
+**—**
+One of the features we had to research was about the possibility to get specific data about a product over its barcode on the back. And, we were luky and found a database which could use for an implementation.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: no
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

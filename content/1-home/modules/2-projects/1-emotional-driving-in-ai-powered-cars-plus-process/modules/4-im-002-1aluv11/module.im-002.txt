@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Project Description — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: iphone-xs-copy-52.jpg
+
+----
+
+Text: 
+
+The outcome of the thesis includes an investigation into safety-critical emotions in traffic and a design concept that minimizes critical errors created by angry driving and bad driving style. The design concept in its final state, called Volvo Intuit, has three features such as "prevention" that takes care of planning a route to a destination in a trouble-free manner with the support of an AI and an emotional traffic heat map, "education" that includes the approach of educating users in good driving style, and "motivation" that rewards the user for good driving style.
+
+As discovered from research, when negative emotions (such as anger or sadness) occur, they are difficult to eliminate and can result in an emotional increase if handled incorrectly. Consequently, I recommend that preventive and reactive strategies should be implemented if driving with emotions occurs in traffic to avoid errors and misbehavior.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: no
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Volvo Car Patent
+
+----
+
+Coverimage: frame-3.png
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1asm5y1, tl-007-r5odt4, im-003-kl2d4g, ft-001-1tghkow, oc-001-1q7dr3d

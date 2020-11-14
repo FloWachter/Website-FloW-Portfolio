@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: WEAVE Magazine Cover
+
+----
+
+Coverimage: weave-cover_1_2014_800_pixel.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1m20x2t, tl-007-r5odt4, im-005-1fs3hz7, ft-001-1tghkow, oc-001-1q7dr3d

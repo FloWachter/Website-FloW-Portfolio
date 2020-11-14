@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: 3D Scan — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: neck_cu.jpg
+
+----
+
+Text: 
+
+## Neck Cushion 
+—
+The neck cushion which lets the sleeping person sleep in a sitting position was a special challenge. I could not find a solution to this in the prototyping phase and I was almost ready to give it up. But then I had a meeting with the Industrial Designer (René Odermatt, Studio Porto) and he recommended a 3D body scan to create the perfect 3D neck model of a neck cushion. This technique quickly resulted in a good result and I discovered a form that perfectly supports the human body in a sitting position to protect the neck in order to avoid pain in the neck.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

@@ -1,0 +1,118 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Material Study — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_1707_edit.jpg
+
+----
+
+Text: 
+
+## Material Study
+—
+Once I found the right form of the Sleeping Wearable, I made a study of the materials. Different materials react differently to the exchange of nose and oxygen. Many materials are therefore very suitable for covering the human body, and some are worse. While I was checking some of the fabrics, I found a fabric that is usually used for stage curtains in theaters. This fabric is a strong absorber of light and noise.
+These are two properties that are great for creating a little place of privacy. The downside of this fabric was is it has a problem in terms of oxygen exchange. For this purpose, I inserted air fans into the fabrics that facilitated a continuous exchange of oxygen from outside into the sleeping wearable.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

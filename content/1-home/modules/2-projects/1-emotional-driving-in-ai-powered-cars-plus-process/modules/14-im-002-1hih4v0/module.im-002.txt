@@ -1,0 +1,138 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Ideation — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: 23-volvo-intuit_sized.jpg
+
+----
+
+Text: 
+
+##Brainstorming
+—
+_Brainstorming is a design method, that fits perfectly into an ideation session._
+
+The Brainstorming session focused on distinct alternatives, but primarily on a technology that operates seamlessly with vehicles. This implies setting up or preparing functionality in a smartphone app before approaching the car. Some of the ideas can be seen in 4.6.2 Brainstorming in the thesis.
+
+##Weighted Matrix
+—
+_The method weighted matrix compares ideas with criteria that need to be considered when making a decision. A matrix-rating-system can be used to compare ideas and criteria._
+
+In order to do a Weighted Matrix, criteria got formulated from the discovered User Needs and  How might we ...? questions. Next, the criteria got ordered from important to less important. Important criteria were rated by 3 points, less important was rated by 1 point and everything in between was rated by 2 points. Finally, the ideas from the Brainstorming have been compared with the criteria and the 4 ideas with the most points will be used for further development. The Weighted Matrix Table can be found in the appendix of the thesis.
+
+##Minimum Viable Concept
+—
+_Minimum Viable Concept also known as Minimum Viable Product or MVP follows the same idea but focuses on a concept rather than a product. The idea is to reduce a concept to the necessary features. This enables prototypes to be created and tests to be carried out as quickly as possible. Quick prototypes and testing generate knowledge for iterative improvements to the concept._
+
+The MVC focuses on shared or subscription cars, which according to the current trends, it seems the future car trend. The concept is reduced to 4 features: _Visualize Emotion_ and _AI Route Planner_ get fused together to the feature **Preventing**. _Proactive ADAS System_ gets defined into the feature **Evasion**. _Emotional Diary_ gets split up into the features of **Educating/Reflecting** and **Motivating**. 
+
+The following table describes the MVC Features of the concept in its functionality:
+> 1. **Preventing** means the user can plan a route in advance to get according to live
+traffic data and stress/angry heat map the options to choose the most trouble-free journey. In addition, the driver will have a live route overview about this he will face on the route in order to be prepared for the unexpected.
+> 2. **Educating/Reflecting** means the driver is getting textual feedback while driving as suggestions for miss-behavior or suggested solutions to stressed/ angry situation. Furthermore, the driver is getting a debrief after every driving station in order to reflect on what he is doing great and where he could improve.
+> 3. **Evasion** means to have a support system in case the driver gets angry. This will be a proactive ADAS system which will support the driver while being angry to not misbehave in traffic.
+> 4. **Motivating** means the user stays motivated to behave in traffic because the hours he is behaving is reducing the amount he has to pay for the rental cost. This not only saves the user money but this safe also money for the lessor(/renter) because a good treated car cost less in maintenance over the year.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

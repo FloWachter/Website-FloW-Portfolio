@@ -1,0 +1,101 @@
+Tab-a: 
+
+----
+
+Title: 5 — Final Prototype — Title-001 / Narrow Semi-Bold Small Title and Wide Text
+
+----
+
+Line-a: 
+
+----
+
+Subtitle: Final Prototype
+
+----
+
+Text: In this phase of the project, I gathered all the learnings from prototyping together to create the final idea for a sleeping asset of a post-human.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-center
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

@@ -1,0 +1,358 @@
+title: Site
+
+pages:
+  template:
+    - default
+
+fields:
+  
+  previewfiles:
+    type: previewfiles
+
+  title:
+    label: Title
+    type:  text
+
+  author:
+    label: Author
+    type:  text
+
+  description:
+    label: Description
+    type:  textarea
+
+  keywords:
+    label: Keywords
+    type: tags
+
+  headline-1:
+    label: Font Setting
+    type: headline
+
+  headlineff:
+    label: Headline Font Family Name
+    type: select
+    default: Roboto
+    icon: arrow-down
+    width: 1/2
+    options:
+      Abel:                       Abel
+      Abril+Fatface:              Abril Fatface
+      Acme:                       Acme
+      Arimo:                      Arimo
+      Archivo+Narrow:             Archivo Narrow
+      Alegreya:                   Alegreya
+      Alegreya+Sans:              Alegreya Sans
+      Alegreya+Sans+SC:           Alegreya Sans SC
+      Anton:                      Anton
+      Arvo:                       Arvo
+      Asap:                       Asap
+      
+
+      Barlow:                     Barlow
+      Barlow+Condensed:           Barlow Condensed
+      Barlow+Semi+Condensed:      Barlow Semi Condensed
+      Bitter:                     Bitter
+      Bree+Serif:                 Bree Serif
+
+      Cabin:                      Cabin
+      Catamaran:                  Catamaran
+      Cairo:                      Cairo
+      Cinzel:                     Cinzel
+      Crete+Round:                Crete Round
+      Crimson+Text:               Crimson Text
+      Comfortaa:                  Comfortaa
+      Cuprum:                     Cuprum
+
+      Dosis:                      Dosis
+
+      EB+Garamond:                EB Garamond
+      Encode+Sans+Condensed:      Encode Sans Condensed
+      Exo:                        Exo
+      Exo+2:                      Exo 2
+      Eczar:                      Eczar
+
+      Fira+Sans:                  Fira Sans
+      Fira+Sans+Condensed:        Fira Sans Condensed
+      Fira+Sans+Extra+Condensed:  Fira Sans Extra Condensed
+      Fjalla+One:                 Fjalla One
+      Francois+One:               Francois+One
+
+      Headland+One:               Headland One
+      Heebo:                      Heebo
+      Hind:                       Hind
+      Hind+Siliguri:              Hind Siligu
+
+      IBM+Plex+Sans:              IBM Plex Sans
+      IBM+Plex+Serif:             IBM Plex Serif
+      IBM+Plex+Mono:              IBM Plex Mono
+      IBM+Plex+Sans+Condensed:    IBM Plex Sans Condensed
+      Inconsolata:                Inconsolata
+
+      Josefin+Sans:               Josefin Sans
+
+      Kanit:                      Kanit
+      Karla:                      Karla
+
+      Libre+Franklin:             Libre Franklin
+      Libre+Baskerville:          Libre+Baskerville
+      Lato:                       Lato
+      Lora:                       Lora
+
+      Montserrat:                 Montserrat
+      Montserrat+Alternates:      Montserrat Alternates
+      Merriweather:               Merriweather
+      Merriweather+Sans:          Merriweather+Sans
+      Muli:                       Muli
+      Maven+Pro:                  Maven Pro
+
+      Nanum+Gothic:               Nanum Gothic
+      Noto+Sans:                  Noto Sans
+      Noto+Serif:                 Noto Serif
+      Nunito:                     Nunito
+      Nunito+Sans:                Nunito Sans
+
+      Overpass:                   Overpass
+      Open+Sans:                  Open Sans
+      Open+Sans+Condensed:        Open Sans Condensed
+      Oswald:                     Oswald
+      Oxygen:                     Oxygen
+
+      Palanquin+Dark:             Palanquin Dark
+      Patua+One:                  Patua One
+      PT+Sans:                    PT Sans
+      PT+Sans+Narrow:             PT Sans Narrow
+      PT+Sans+Caption:            PT Sans Caption
+      PT+Serif:                   PT Serif
+      Play:                       Play
+      Playfair+Display:           Playfair Display
+      Poppins:                    Poppins
+      Prompt:                     Prompt
+
+      Rajdhani:                   Rajdhani
+      Righteous:                  Righteous
+      Roboto:                     Roboto
+      Roboto+Condensed:           Roboto Condensed
+      Roboto+Slab:                Roboto Slab
+      Roboto+Mono:                Roboto Mono
+      Ropa+Sans:                  Ropa Sans
+      Rokkitt:                    Rokkitt
+      Raleway:                    Raleway
+      Rubik:                      Rubik
+
+      Signika:                    Signika
+      Spectral:                   Spectral
+      Spectral+SC:                Spectral SC
+      Sunflower:                  Sunflower
+      Source+Code+Pro:            Source Code Pro
+      Source+Sans+Pro:            Source Sans Pro
+      Source+Serif+Pro:           Source Serif Pro
+
+      Taviraj:                    Taviraj
+      Teko:                       Teko
+      Trirong:                    Trirong
+      Titillium+Web:              Titillium Web
+
+      Ubuntu:                     Ubuntu
+      Ubuntu+Condensed:           Ubuntu Condensed
+
+      Vollkorn:                   Vollkorn
+      Varela+Round:               Varela+Round
+
+      Yanone+Kaffeesatz:          Yanone+Kaffeesatz
+
+      Quicksand:                  Quicksand
+      Questrial:                  Questrial
+
+      Work+Sans:                  Work Sans
+      
+      
+
+  textff:
+    label: Text Font Family Name
+    type: select
+    default: Open+Sans
+    icon: arrow-down
+    width: 1/2
+    options:
+      Abel:                       Abel
+      Abril+Fatface:              Abril Fatface
+      Acme:                       Acme
+      Arimo:                      Arimo
+      Archivo+Narrow:             Archivo Narrow
+      Alegreya:                   Alegreya
+      Alegreya+Sans:              Alegreya Sans
+      Alegreya+Sans+SC:           Alegreya Sans SC
+      Anton:                      Anton
+      Arvo:                       Arvo
+      Asap:                       Asap
+      
+
+      Barlow:                     Barlow
+      Barlow+Condensed:           Barlow Condensed
+      Barlow+Semi+Condensed:      Barlow Semi Condensed
+      Bitter:                     Bitter
+      Bree+Serif:                 Bree Serif
+
+      Cabin:                      Cabin
+      Catamaran:                  Catamaran
+      Cairo:                      Cairo
+      Cinzel:                     Cinzel
+      Crete+Round:                Crete Round
+      Crimson+Text:               Crimson Text
+      Comfortaa:                  Comfortaa
+      Cuprum:                     Cuprum
+
+      Dosis:                      Dosis
+
+      EB+Garamond:                EB Garamond
+      Encode+Sans+Condensed:      Encode Sans Condensed
+      Exo:                        Exo
+      Exo+2:                      Exo 2
+      Eczar:                      Eczar
+
+      Fira+Sans:                  Fira Sans
+      Fira+Sans+Condensed:        Fira Sans Condensed
+      Fira+Sans+Extra+Condensed:  Fira Sans Extra Condensed
+      Fjalla+One:                 Fjalla One
+      Francois+One:               Francois+One
+
+      Headland+One:               Headland One
+      Heebo:                      Heebo
+      Hind:                       Hind
+      Hind+Siliguri:              Hind Siligu
+
+      IBM+Plex+Sans:              IBM Plex Sans
+      IBM+Plex+Serif:             IBM Plex Serif
+      IBM+Plex+Mono:              IBM Plex Mono
+      IBM+Plex+Sans+Condensed:    IBM Plex Sans Condensed
+      Inconsolata:                Inconsolata
+
+      Josefin+Sans:               Josefin Sans
+
+      Kanit:                      Kanit
+      Karla:                      Karla
+
+      Libre+Franklin:             Libre Franklin
+      Libre+Baskerville:          Libre+Baskerville
+      Lato:                       Lato
+      Lora:                       Lora
+
+      Montserrat:                 Montserrat
+      Montserrat+Alternates:      Montserrat Alternates
+      Merriweather:               Merriweather
+      Merriweather+Sans:          Merriweather+Sans
+      Muli:                       Muli
+      Maven+Pro:                  Maven Pro
+
+      Nanum+Gothic:               Nanum Gothic
+      Noto+Sans:                  Noto Sans
+      Noto+Serif:                 Noto Serif
+      Nunito:                     Nunito
+      Nunito+Sans:                Nunito Sans
+
+      Overpass:                   Overpass
+      Open+Sans:                  Open Sans
+      Open+Sans+Condensed:        Open Sans Condensed
+      Oswald:                     Oswald
+      Oxygen:                     Oxygen
+
+      Palanquin+Dark:             Palanquin Dark
+      Patua+One:                  Patua One
+      PT+Sans:                    PT Sans
+      PT+Sans+Narrow:             PT Sans Narrow
+      PT+Sans+Caption:            PT Sans Caption
+      PT+Serif:                   PT Serif
+      Play:                       Play
+      Playfair+Display:           Playfair Display
+      Poppins:                    Poppins
+      Prompt:                     Prompt
+
+      Rajdhani:                   Rajdhani
+      Righteous:                  Righteous
+      Roboto:                     Roboto
+      Roboto+Condensed:           Roboto Condensed
+      Roboto+Slab:                Roboto Slab
+      Roboto+Mono:                Roboto Mono
+      Ropa+Sans:                  Ropa Sans
+      Rokkitt:                    Rokkitt
+      Raleway:                    Raleway
+      Rubik:                      Rubik
+
+      Signika:                    Signika
+      Spectral:                   Spectral
+      Spectral+SC:                Spectral SC
+      Sunflower:                  Sunflower
+      Source+Code+Pro:            Source Code Pro
+      Source+Sans+Pro:            Source Sans Pro
+      Source+Serif+Pro:           Source Serif Pro
+
+      Taviraj:                    Taviraj
+      Teko:                       Teko
+      Trirong:                    Trirong
+      Titillium+Web:              Titillium Web
+
+      Ubuntu:                     Ubuntu
+      Ubuntu+Condensed:           Ubuntu Condensed
+
+      Vollkorn:                   Vollkorn
+      Varela+Round:               Varela+Round
+
+      Yanone+Kaffeesatz:          Yanone+Kaffeesatz
+
+      Quicksand:                  Quicksand
+      Questrial:                  Questrial
+
+      Work+Sans:                  Work Sans
+
+  headlinefw:
+    label: Headline Font Weight
+    type: multiselect
+    width: 1/2
+    search: false
+    options:
+      300: Light
+      400: Normal
+      500: Medium
+      600: Semi-Bold
+      700: Bold
+      800: Extra-Bold
+      900: Black
+
+  textfw:
+    label: Text Font Weight
+    type: select
+    default: 300
+    icon: arrow-down
+    width: 1/2
+    options:
+      300: Light
+      400: Normal
+
+  latinext:
+    label: Latin Extened
+    type:  switch
+    texts: 
+      - Latin Extened is Enable
+      - Latin Extened is Disable
+    width: 1/2
+  
+  headline-2:
+    label: Favicon Setting
+    type: headline
+
+  favicon:
+      label: Favicon
+      type: image
+      help: 16x16 png format 
+
+  headline-4:
+    label: Google Analytics
+    type: headline
+
+  googleAnalytics:
+    label: Google Analytics ID
+    type: text
+    icon: code
+    help: Tracking ID in the form UA-XXXXXXXX-X. Keep this field empty if you are not using it.
+

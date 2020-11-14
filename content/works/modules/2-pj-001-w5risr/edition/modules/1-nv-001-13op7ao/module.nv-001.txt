@@ -1,0 +1,181 @@
+Tab-a: 
+
+----
+
+Title: Navigation-001 / Left Logo and Right Menu
+
+----
+
+Line-a: 
+
+----
+
+Brandlogo: logo.svg
+
+----
+
+Brandname: Shuffle
+
+----
+
+Addmenu: 
+
+- 
+  menuname: Work
+  pagelink: http://localhost:8888/alpha-update/work
+- 
+  menuname: Agency
+  pagelink: >
+    http://localhost:8888/alpha-update/agency
+- 
+  menuname: Contact
+  pagelink: >
+    http://localhost:8888/alpha-update/contact
+
+----
+
+Line-b: 
+
+----
+
+Mobilemenu: offcanvas-oc-001
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Transparent: no
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Margintop: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Boxshadow: 
+
+----
+
+Group-c-end: 
+
+----
+
+Group-f-start: 
+
+----
+
+Space: false
+
+----
+
+Group-f-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Logocolor: rgba(0, 0, 0, 1)
+
+----
+
+Fontcolor: rgba(0, 0, 0, 1)
+
+----
+
+Group-d-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Stickymenu: no
+
+----
+
+Stickybgcolor: #00449e
+
+----
+
+Stickyanimations: uk-animation-slide-top
+
+----
+
+Stickytop: 100vh
+
+----
+
+Stickylogocolor: rgba(255, 255, 255, 0.9)
+
+----
+
+Stickyfontcolor: rgba(255, 255, 255, 0.5)
+
+----
+
+Menuopacitystart: 1
+
+----
+
+Menuopacitymiddle: 0.7
+
+----
+
+Menuopacityend: 0
+
+----
+
+Menuyaxisstart: 0
+
+----
+
+Menuyaxismiddle: 0
+
+----
+
+Menuyaxisend: 0
+
+----
+
+Menuviewport: 0.4
+
+----
+
+Menueasing: 0.8
+
+----
+
+Group-e-end: 

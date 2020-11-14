@@ -1,0 +1,107 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Education — Image-004 / Left Image and Lead
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: 39_hangingstructure_edit.jpg
+
+----
+
+Text: 
+
+**Education**
+
+M.Sc. Interaction Design and Technology 
+Chalmers University of Technology
+Sweden
+
+B.A. Interaction design
+Zurich University of the Arts
+Switzerland
+
+IT specialist Apprenticeship
+Technical School of Aalen
+Germany
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #000000
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

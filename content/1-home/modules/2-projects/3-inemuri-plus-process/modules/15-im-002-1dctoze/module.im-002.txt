@@ -1,0 +1,122 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Experimentation — Sleep Phases — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: licht-wecker.jpg
+
+----
+
+Text: 
+
+**Sleeping Phases**
+When falling asleep, the body passes through several sleeping phases: the first sleeping stage is a phase where awakening with tiny noises takes place easily.  The second sleeping phase, makes muscles relaxed and the brain shows a low cerebral frequency but it is still easy to awakening a sleeping person. This sleeping phase fills half of the sleep cycle. The third sleeping stage is a deep sleeping phase where the body is relaxed and it is more difficult to awakening a sleeping person. This stage is the most relaxing component of the sleeping cycle. The fourth sleeping phase is a dreaming phase also called the "REM phase," which is characteristic for the strong eye movement which takes place at this phase. 
+
+Moreover, waking up in a light sleeping phase is much more comfortable than in a deep sleep phase. This is also a reason why Power-napping having this refreshing effect on the body. Deep sleeping phases takes place after sleeping a long time approximately longer than 30 min.
+
+To evaluate sleep in its stages, changes in the electrical DC resistance of the skin can be measured.
+
+However, in the subcategory "Sleep Phases," "REM Phase" and "Sleep Tracking" I looked at the subjects with an experiment with a "Light Clock." The experiment was about using light instead of sound to wake me up in the morning. This clock takes benefit of the reality that individuals are simple to wake up in light sleeping phases. This implies that the waking method takes longer but feels more natural and is not influenced by the side effects of deep sleep disruption and drowsiness.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

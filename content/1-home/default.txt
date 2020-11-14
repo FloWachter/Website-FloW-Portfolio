@@ -1,0 +1,5 @@
+Title: Home
+
+----
+
+Modules: navi-top, projects, footer, offcanvas-menue

@@ -1,0 +1,101 @@
+Tab-a: 
+
+----
+
+Title: The Design Process — Title-003 / Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Subtitle: The Design Process
+
+----
+
+Text: This Project was conducted in a Design Thinking structure. Design Thinking takes care of the project process, an approach that provides a solution to identify what desirable users really need. It consists of 5 stages, namely: Empathize, Define, Ideate, Prototype, and Test.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-bottom
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-center
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

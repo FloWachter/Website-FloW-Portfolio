@@ -1,0 +1,101 @@
+Tab-a: 
+
+----
+
+Title: Test — Title-001 / Narrow Semi-Bold Small Title and Wide Text
+
+----
+
+Line-a: 
+
+----
+
+Subtitle: Test
+
+----
+
+Text: The Test stage should identify the best solutions or prototype in order to iterate or implement. It is very often in these steps that a design fails and new insights lead to a redesign that needs to be re-tested.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-bottom
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-center
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

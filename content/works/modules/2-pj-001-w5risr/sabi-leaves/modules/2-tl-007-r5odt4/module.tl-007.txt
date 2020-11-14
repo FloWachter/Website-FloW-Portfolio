@@ -1,0 +1,109 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Sabi Leaves
+
+----
+
+Subtitle: Exemplary minimalist print work
+
+----
+
+Text: (link: http://aristotheme.com text: Classpack) is a trademark of BOYCO UK Limited, a company that works with architects, designers, and contractors to create a diverse range of furniture, fittings, and equipment for the learning and teaching environment with an approach to simplify the design, specification and costing.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

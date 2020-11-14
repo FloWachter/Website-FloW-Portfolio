@@ -1,0 +1,101 @@
+Tab-a: 
+
+----
+
+Title: The Design Process — Title-003 / Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Subtitle: The Design Process
+
+----
+
+Text: The Design Process of this project took place over serval years when we began to get to know each other and to become close friends. Structure wise the project can be distanced into 5 stages. These stages can be defined as Information Architecture, Style & Mood, Prototype & Test, Design & Develop, and Dynamic Adaptation.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-bottom
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-center
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

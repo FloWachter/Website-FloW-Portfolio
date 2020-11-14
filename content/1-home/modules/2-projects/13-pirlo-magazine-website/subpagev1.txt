@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Pirlo Magazine Website
+
+----
+
+Coverimage: pirlo_07-2.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1n16os1, tl-007-r5odt4, im-005-fxt4iv, ft-001-1tghkow, oc-001-1q7dr3d

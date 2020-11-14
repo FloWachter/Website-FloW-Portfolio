@@ -1,0 +1,113 @@
+Tab-a: 
+
+----
+
+Title: Headline and intro and video — Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Master Thesis
+
+----
+
+Subtitle: Emotional driving in AI-powered Cars; Driver and traffic safety
+
+----
+
+Text: 
+
+Every year, individuals lose their life in traffic accidents triggered by human errors. The automotive industry intends to create autonomous driving to fix this issue by getting rid of the greatest safety issue, the driver himself. But in this area, the industry faces major problems with law regulations and technological difficulties. In collaboration with Volvo cars and Volvo’s vision, that no one should be killed or seriously injured in a new Volvo by 2020. This dissertation investigates how human errors created by emotional driving or bad driving styles can be minimized with the help of artificial intelligence assistance instead of using fully autonomous driving vehicles. Along with Volvo Car’s design strategy including safety, intelligent, modern and warmth, a concept has been created in which cars can detect human emotions.
+
+(link: https://issuu.com/florianrastabob/docs/master_thesis_florian_wachter_emoti text: Read the Master Thesis here!)
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

@@ -1,0 +1,88 @@
+Tab-a: 
+
+----
+
+Title: Interviews — Text-009 / Two Columns Lead
+
+----
+
+Line-a: 
+
+----
+
+Text: 
+
+## Interviews
+—
+The findings of the interviews have shown that beauty, health, and sport have the common factor of being connected to sleep. Furthermore, work and sleeping patterns in relation to everyday stress became the subject of all surveys.  In an article by Klaus Vyhnalek titled "The City of the Future - Conversation with Futurologist Matthias Horx", it is predicted that in 2050, 70% of all humans live in cities. This influences our living situation: we live in less space together, which ultimately affects our sleep behavior in terms of noise and other peoples sleeping rhythms.
+Moreover, the work-life balance also affects our sleep resulting from pressure to perform and raising funds to live in the city.
+It is proven that our sleeping behavior is already influenced by circumstantial living situations by "The Federal Office of Public Health", which shows in a representative survey that we sleep about 40 minutes less today than we did 30 years ago.
+This circumstance is a socially relevant topic, which has sparked my interest to focus in particular on the subject of "The phenomenon of sleep".
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

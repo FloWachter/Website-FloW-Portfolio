@@ -1,0 +1,90 @@
+title: Subpage - Title and Image
+pages: false
+  build:
+    - title: _modules
+      uid: modules
+      template: submodules
+  hide: true
+files: true
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: true
+
+fields:
+  
+  previewfiles:
+    type: previewfiles
+    
+  tab-a:
+    label: Content
+    type:  tabs
+
+  title:
+    label: Page Title
+    type:  text
+    width: 2/3
+
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/3
+
+  line-a:
+      type: line
+
+  linksubpage:
+    label: Link to subpage
+    type:        fieldtoggle
+    default:     "yes"
+    options:
+      yes:       "Yes"
+      no:        "No"
+    show:
+      yes:       modules
+    hide:
+      no:        modules
+
+  modules:
+    label: Sub Modules / Design this detail page
+    type: modules
+
+    layout: sub
+
+    options:
+      redirect: false
+      preview: true
+      delete: true
+      limit: null
+      edit: true  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  

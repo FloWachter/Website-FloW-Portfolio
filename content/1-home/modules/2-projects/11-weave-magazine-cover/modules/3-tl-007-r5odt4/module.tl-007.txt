@@ -1,0 +1,114 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Competition
+
+----
+
+Subtitle: WEAVE Magazine Cover
+
+----
+
+Text: 
+
+In the year of 2013 a cover design for the moths February and March was searched in line with a pitch for the “WEAVE Magazine” (now “Page”) at the ZHdK. The theme of that cover was “storytelling for start-ups”. 
+My design including the “Mandelbrot Rotation Grafik” (“Almond-bread rotation graphics”) was voted 1st place and therefore printed and published. The WEAVE cover illustrates an (rotating 3D/2D) almond-bread-portion. This portion represents the behavior of regenerative systems. These systems can be used for developing and testing new methods to describe and analyze such systems. If this will be useful is unknown. Sooner or later, however, the use remains to be seen. The “baptism of fire” is the only option for testing this business-model.
+
+Links: <a href="http://page-online.de/" target="_blank"> www.page-online.de </a>
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

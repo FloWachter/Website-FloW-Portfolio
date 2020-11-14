@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Sonic Augmented Reality
+
+----
+
+Coverimage: photo-1490476323407-63a2b2baa393.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1e25j74, tl-007-r5odt4, im-005-3q5xxv, ft-001-1tghkow, oc-001-1q7dr3d

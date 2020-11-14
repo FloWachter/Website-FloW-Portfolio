@@ -1,0 +1,92 @@
+Tab-a: 
+
+----
+
+Title: Offcanvas-001 / Vertical Centered Menu and Social Links
+
+----
+
+Info: 
+
+----
+
+Line-a: 
+
+----
+
+Addmenu: 
+
+- 
+  menuname: Work
+  pagelink: http://localhost:8888
+- 
+  menuname: About
+  pagelink: http://localhost:8888/about
+- 
+  menuname: Contact
+  pagelink: http://localhost:8888/contact
+
+----
+
+Line-b: 
+
+----
+
+Sociallinks: 
+
+- 
+  title: linkedin
+  link: >
+    https://www.linkedin.com/in/florian-wachter-37b105bb/
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Bgcolor: rgba(0, 0, 0, 1)
+
+----
+
+Menucolor: #eeeeee
+
+----
+
+Menuhovercolor: #ffffff
+
+----
+
+Menuactivecolor: #ffffff
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-b-end: 

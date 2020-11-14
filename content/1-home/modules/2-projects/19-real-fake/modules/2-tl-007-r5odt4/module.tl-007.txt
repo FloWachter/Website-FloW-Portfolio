@@ -1,0 +1,114 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Freelancer Work
+
+----
+
+Subtitle: Real Fake
+
+----
+
+Text: 
+
+Within the project “real fake”, which was realized in cooperation with the “Schauspielhaus Zürich”, I created and produced masks for one of their plays.
+The masks were designed to mirror the geometric abstract shape of the person, who wears it. In order to realize that, I took 360° photographs of the heads of the actors, digitalized and printed these heads in an oversize format. With this process, multifaceted masks of the actors in an oversize format were developed, which were worn by the actors within their play.
+
+Link: <a href='http://www.schauspielhaus.ch/spielplan/stucke-a-z/463-realfake' traget="_blank">Schauspielhaus.ch</a>
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

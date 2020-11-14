@@ -1,0 +1,121 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Prototyping & Testing  — Formative Usability Evaluation — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: prototype_concept_v2.jpg
+
+----
+
+Text: 
+
+##Summative Usability Evaluation
+—
+_Summative Usability Evaluation is an evaluation method that is performed when a design is completed. This method can be performed as a Formative Usability Evaluation that the user has to perform tasks by using the design. Unlike Formative evaluation, this method is unassisted to simulate real-life use._
+
+A scenario was created and tested with 5 participants as recommended by Jakob Nielsen in 
+["Why You Only Need to Test with 5 Users"](https://www.nngroup.com/videos/formative-vs-summative-evaluation/) for the Summative Usability Evaluation.
+The test persons were 3 male and 2 female testers between the ages of 25-31 years old. The testing tasks were divided into Prevention, Education, Evasion, Motivation. Each task consists of sub-tasks. The test results which are necessary for the last iteration are stated in Summative Usability Evaluation Results in the thesis.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

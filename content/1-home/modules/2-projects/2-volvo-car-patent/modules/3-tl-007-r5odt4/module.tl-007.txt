@@ -1,0 +1,116 @@
+Tab-a: 
+
+----
+
+Title: Headline and intro and video — Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Volvo Cars UX Design Studio in Göteborg, Sweden
+
+----
+
+Subtitle: Method and system supporting obtaining of body parameters of a person outside a vehicle
+
+----
+
+Text: 
+
+At Volvo Cars Design Studio in Göteborg, Sweden, I worked as a UX Design Technologist on projects related to the next generation Volvo cars Platform in the areas of HMI Design and UX / UI Design. One of my work got filed into a patent which got finally published under the title "Method and system supporting obtaining of body parameters of a person outside a vehicle".
+
+(link: https://patentimages.storage.googleapis.com/ec/05/0d/3dff42071ac65b/US20200269836A1.pdf text: Read the Patent here!)
+
+##Patent Abstract
+The present disclosure relates to a method performed by a body parameters supporting system of a vehicle for supporting obtaining body parameters of a person. The body parameters supporting system determines—with input from one or more surrounding detecting sensors adapted to capture a surrounding exterior of the vehicle—one or more body parameters capturing conditions for a person present outside the vehicle. The body parameters supporting system further communicates one or more instruction signals indicating one or more body motion and/or obstruction removal instructions, wherein the one or more instruction signals are determined in consideration of counteracting, changing and/or overcoming at least one of the one or more body parameters capturing conditions. The disclosure also relates to a body parameters supporting system in accordance with the foregoing, and a vehicle comprising such a body parameters supporting system.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

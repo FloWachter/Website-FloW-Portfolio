@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: What is a Cyborg — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: cyborg-mouse.jpg
+
+----
+
+Text: 
+
+## What is a Cyborg?
+—
+The word cyborg is composed of the term "cybernetic organism" and got invented by two NASA scientists Manfred E. Clynes (physicist and psychologist) and Nathan S. Kline (engineer and computer scientist) with their publication "Cyborgs and Space" in 1960. In the publication, Clynes and Kline present a cyborg concept that aims to adapt to the fragile biological human body to live in space for a long time.This idea was first tested on a mouse where the mouse body was expanded with technology (see image). The result is a cybernetic organism, a schema of a mechanistic-functional body, which is well equipped for its tasks in space through its adaptability.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

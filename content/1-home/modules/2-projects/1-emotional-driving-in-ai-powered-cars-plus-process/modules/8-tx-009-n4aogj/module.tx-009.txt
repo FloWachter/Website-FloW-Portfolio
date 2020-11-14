@@ -1,0 +1,103 @@
+Tab-a: 
+
+----
+
+Title: Empathise — METHODS — Text-009 / Two Columns Lead
+
+----
+
+Line-a: 
+
+----
+
+Text: 
+
+##Literature Review
+—
+_The literature review is a critical essay that summarizes and evaluates the literature on a specific topic. Summarize, in terms of results or claims from prior research efforts on the topic._
+
+The content of the investigated studies mainly focuses on the role of emotions and their negative effects on driving and safety. During the literature review, it became clear that research on positive emotions lacks empirical evidence and needs further research. Moreover, it becomes evidential from the literature review, that the most frequently studied emotions are: anger and sadness, and less considered were happiness and joy, surprise and fear.
+
+**Reviewed Topics :**
+_ Basic Emotions, different Emotion Models, How to track an emotion?, Body language and Biometrics, Artificial Intelligence, Sensor Fusion, Non - Visual User Interaction, Ubiquitous computing, Gamification, EU law for car safety 2022, Levels of Autonomous driving, Car Sharing, Data Privacy._
+
+
+##Qualitative Research
+—
+_Qualitative research is primarily concerned with exploratory research and aims to gain an understanding of a topic._
+
+I considered qualitative research because the subject of emotions and driving is too complex to be encapsulated by a simple yes or no hypothesis. Qualitative research techniques are richer and more insightful in the underlying reasons and patterns within phenomena. In order to conduct Qualitative research different Methods were used:
+
+##Expert Interviews
+—
+_Interviews are used to gather qualitative data about a specific topic._
+
+In total, I interviewed three different experts within the field. The first, Interview was a "Specialist in Data Analysis" at Volvo cars. He is focused on the development of Machine learning applications. The second interview was a "Psychologist, with a focus on behavioral therapy"  The Third interview was a "Costumer Researcher at Volvo Cars", and focused on user research.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

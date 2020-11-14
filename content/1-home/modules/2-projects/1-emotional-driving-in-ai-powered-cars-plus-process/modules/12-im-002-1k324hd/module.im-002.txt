@@ -1,0 +1,137 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Define — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_0987_cropt.jpg
+
+----
+
+Text: 
+
+##The Problem Statement
+—
+_The Problem Statement is a method which is following a User-centered approach to frame a problem to a specific user. Furthermore, it includes ways to formulate (Point of View) and creating a direction to solve the problem (How might we ...?.[59]_
+
+##Point of View
+—
+_Point of View (POV) is a method used to define the design challenge to inform a problem statement._
+
+Examples of defined POVs:
+• A user needs to avoid stress while driving because stress and driving can easily result in anger.
+• A user needs information about risks which can happen while driving angry because users want to realize something is necessary in order to save their life’s.
+• A user need reflection on own driving behavior because people who reflecting on there own driving behavior creating awareness of own errors while driving.
+• A user need to avoid anger while driving because angry drivers make other drivers angry and so on.
+
+##How might we ...?
+—
+"How might we" is a follow-up method used as a base to generate questions, which leads to directions of ideas or solutions.
+
+Examples of How might we ...? - Questions:
+• How might we design for avoiding Anger and stress?
+• How might we design for educating/reflecting on anger and stress behavior in traffic?
+• How might we design for motivating to behave in traffic to stay safe?
+• How might we design for not making other drivers angry?
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

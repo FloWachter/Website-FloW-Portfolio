@@ -1,0 +1,328 @@
+title: Image-001 / Single Image
+pages: false
+files:
+  fields:
+
+      caption:
+        label: Caption
+        type: text
+        icon: font
+        default: Image Name
+options:
+  preview: false
+  status: true
+  template: false
+  url: true
+  delete: true
+hide: true
+
+fields:
+
+  previewfiles:
+    type: previewfiles
+  
+  tab-a:
+    label: Content
+    type:  tabs
+
+  title:
+    label: Module Title
+    type:  text
+
+  line-a:
+    type: line
+
+  onlyimage:
+    label: Image
+    type: image
+    width: 1/1
+    help: Recommended width size; 1680px
+
+  tab-b:
+    label: Settings
+    type:  tabs
+
+  headline-1:
+    label: Module
+    type: headline
+
+  group_a_start:
+    label: Container
+    type: panelgroup
+    position: start
+    accordion: true
+
+  container:
+    type: select
+    default: uk-container-large
+    icon: arrow-down
+    width: 1/1
+    options:
+      uk-container-xsmall: Xsmall
+      uk-container-small:  Small
+      uk-container-large:  Large
+      uk-container-expand: Expand
+
+  group_a_end:
+    type: panelgroup
+    position: end
+
+  group_b_start:
+    label: Space
+    type: panelgroup
+    position: start
+    accordion: true
+
+  addpadding:
+    label: Add Space
+    type: select
+    default: uk-section-large
+    icon: arrow-down
+    width: 1/2
+    options:
+      uk-section-xsmall:  Xsmal
+      uk-section-small:   Small
+      uk-section-large:   Large
+      uk-section-xlarge:  Xlarge
+
+  removepadding:
+    label: Remove Space
+    type: select
+    icon: arrow-down
+    width: 1/2
+    options:
+      uk-padding-remove-vertical:   Remove Vertical Space
+      uk-padding-remove-horizontal: Remove Horizontal Space
+      uk-padding-remove-right:      Remove Right Space
+      uk-padding-remove-left:       Remove Left Space
+      uk-padding-remove-bottom:     Remove Bottom Space
+      uk-padding-remove-top:        Remove Top Space
+      uk-padding-remove:            Remove All Padding
+
+  group_b_end:
+    type: panelgroup
+    position: end
+ 
+
+  group_c_start:
+    label: Background Color
+    type: panelgroup
+    position: start
+    accordion: true
+
+  bgcolor:
+    label: Background Color
+    type:  color
+    default: '#FFFFFF'
+    width: 1/1
+    opacity: true
+
+  group_c_end:
+    type: panelgroup
+    position: end
+
+  group_d_start:
+    label: Scrollspy
+    type: panelgroup
+    position: start
+    accordion: true
+
+  scrollspy:
+    label: Animations
+    type: select
+    default: uk-animation-slide-bottom-medium
+    help: A collection of smooth animations to use for your text.
+    icon: arrow-down
+    width: 2/5
+    options:
+      uk-animation-fade:                  Fade
+      uk-animation-scale-up:              Scale Up
+      uk-animation-scale-down:            Scale Down
+      uk-animation-slide-top:             Slide Top
+      uk-animation-slide-bottom:          Slide Bottom
+      uk-animation-slide-left:            Slide Left
+      uk-animation-slide-right:           Slide Right
+      uk-animation-slide-top-small:       Slide Top Small
+      uk-animation-slide-bottom-small:    Slide Bottom Small
+      uk-animation-slide-left-small:      Slide Left Small
+      uk-animation-slide-right-small:     Slide Right Small
+      uk-animation-slide-top-medium:      Slide Top Medium
+      uk-animation-slide-bottom-medium:   Slide Bottom Medium
+      uk-animation-slide-left-medium:     Slide Left Medium
+      uk-animation-slide-right-medium:    Slide Right Medium
+      uk-animation-shake:                 Shake
+ 
+
+  scrollspydelay:
+    label: Delay
+    default: 300
+    type: text
+    help: Delay time in ms.
+    width: 1/5
+
+  scrollspyrepeat:
+    label: Repeat
+    type:  switch
+    texts: 
+      - Repeat is ON
+      - Repeat is OFF
+    help: Every time the element is in view.
+    width: 2/5
+  
+  group_d_end:
+    type: panelgroup
+    position: end
+
+  group_e_start:
+    label: Lightbox
+    type: panelgroup
+    position: start
+    accordion: true
+
+  lightbox:
+    type:        fieldtoggle
+    default:     "no"
+    options:
+      yes:       "Yes"
+      no:        "No"
+    show:
+      yes:      lightboxanimation overlay overlaytransition iconcolor
+    hide:
+      no:       lightboxanimation overlay overlaytransition iconcolor
+
+  lightboxanimation:
+    label: Lightbox Animations
+    type: radio
+    default: slide
+    options:
+      slide:  Slide
+      fade:   Fade
+      scale:  Scale
+    columns: 3
+
+  overlay:
+    label: Overlay Color
+    type:  color
+    default: 'rgba(255, 255, 255, 0.7)'
+    width: 1/3
+    opacity: true
+
+  iconcolor:
+    label: Icon Color
+    type:  color
+    default: 'rgba(0, 0, 0, 1)'
+    width: 1/3
+    opacity: true
+
+  overlaytransition:
+    label: Overlay Transitions
+    type: select
+    default: uk-transition-fade
+    help: Create smooth transitions between two states when hovering an element.
+    icon: arrow-down
+    width: 1/3
+    options:
+      uk-transition-fade:                  Fade
+      uk-transition-scale-up:              Scale Up
+      uk-transition-scale-down:            Scale Down
+      uk-transition-slide-top:             Slide Top
+      uk-transition-slide-bottom:          Slide Bottom
+      uk-transition-slide-left:            Slide Left
+      uk-transition-slide-right:           Slide Right
+      uk-transition-slide-top-small:       Slide Top Small
+      uk-transition-slide-bottom-small:    Slide Bottom Small
+      uk-transition-slide-left-small:      Slide Left Small
+      uk-transition-slide-right-small:     Slide Right Small
+      uk-transition-slide-top-medium:      Slide Top Medium
+      uk-transition-slide-bottom-medium:   Slide Bottom Medium
+      uk-transition-slide-left-medium:     Slide Left Medium
+      uk-transition-slide-right-medium:    Slide Right Medium
+
+  group_e_end:
+    type: panelgroup
+    position: end
+
+  group_f_start:
+    label: Box Shadow
+    type: panelgroup
+    position: start
+    accordion: true
+
+  horizontaloffset:
+    label: Horizontal Offset
+    default: 0
+    type: text
+    width: 1/5
+
+  verticaloffset:
+    label: Vertical Offset
+    default: 20
+    type: text
+    width: 1/5
+
+  blurradius:
+    label: Blur Radius
+    default: 40
+    type: text
+    width: 1/5
+
+  optionalspreadradius:
+    label: Optional Spread Radius
+    default: 10
+    type: text
+    width: 1/5
+
+  boxshadowcolor:
+    label: Color
+    type:  color
+    default: 'rgba(224,224,224,0.20)'
+    width: 1/5
+    opacity: true
+
+  
+  group_e_end:
+    type: panelgroup
+    position: end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

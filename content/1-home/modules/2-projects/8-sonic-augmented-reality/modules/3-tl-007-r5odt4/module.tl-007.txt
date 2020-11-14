@@ -1,0 +1,118 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Design Research & Prototyping
+
+----
+
+Subtitle: Sonic Augmented Reality
+
+----
+
+Text: 
+
+This project considers the rising effect of people wearing headphones or ear pods and putting them-self in risk by isolation from the sonic urban environment. This project seeks to find out whether ”Machine Learning” (ML) with ”Urban Sound Classification” could be an effective tool to find a solution that minimizes the risks of accidents involving urban moving objects such as cars, trams, bicycles, etc. in order not to take away the pleasure of listening to music. Via my study, I assume that I may have found a new augmentation in sound, which I call ”Sonic Augmented Reality.” Sonic Augmented Reality, is the technology of combining ”sonic interactions” (convey information and meaning through interactive context) from our technology-driven environment with computer-generated sound information as a second layer on top of our consumption of music.
+
+(link:https://issuu.com/florianrastabob/docs/individual_project_urban_sound_classification_and_ text: Read the Research-Paper here!)
+
+**Advisory:**
+Prof. Palle Dahlstedt (Interaction Design, Department of Computer Science and Engineering)
+
+Title Photo by (link: https://unsplash.com/@henry_be?utm_source=medium&utm_medium=referral text: Henry Be target: _blank) on (link: https://unsplash.com/ text: Unsplash target: _blank)
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

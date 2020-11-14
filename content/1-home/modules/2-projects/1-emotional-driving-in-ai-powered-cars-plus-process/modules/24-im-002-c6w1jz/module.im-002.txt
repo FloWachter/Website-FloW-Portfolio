@@ -1,0 +1,126 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: The Final Concept — The Volvo Intuit Feature:  Education — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: polestar_2_interior_geneva-kopie.jpg
+
+----
+
+Text: 
+
+##The Volvo Intuit Feature:  Education
+—
+Furthermore, users often getting stressed or angry in traffic because of bad driving habits, poor understanding of other road users, and poor respect of traffic regulations. The education part of Volvo intuit helps to educate in good driving behavior. This helps to raise the amount of educated and experienced drivers in traffic. The education system of Volvo Intuit recognizes if a driver is behaving poorly and helps him to reflect on this behavior in order to avoid it in future traffic situations. Poorly behavior can be for example:
+
+• Rapid acceleration
+• Not Using Turn Signals
+• Tailgating [9]
+• Speeding [9]
+• Using a phone while driving
+• ...
+
+If poor behavior gets recognized by Volvo intuit the driver gets warned with a signal tone and a warning pops up in the infotainment system of the car. Later on the behavior and be seen as a log in the application. The poor behavior gets listed with where it happened with a description of why it is poor behavior and how to improve. In this way, both the user and the renter can profit because good behavior in traffic achieves better results in reducing maintenance and energy costs ( ref: chevinfleet.com) for the renter and more safety for the user.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

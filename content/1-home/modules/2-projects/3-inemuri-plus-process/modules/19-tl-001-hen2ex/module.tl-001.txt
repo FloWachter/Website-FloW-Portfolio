@@ -1,0 +1,101 @@
+Tab-a: 
+
+----
+
+Title: 3 — Ideation — Title-001 / Narrow Semi-Bold Small Title and Wide Text
+
+----
+
+Line-a: 
+
+----
+
+Subtitle: Ideation
+
+----
+
+Text: At the stage of the ideation, I have taken all the insights and research results together to create a speculative proposal for sleep in the future society. In order to create a speculative solution, I iterated many times in the ideation phase and prototyping phase at the same time.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-center
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

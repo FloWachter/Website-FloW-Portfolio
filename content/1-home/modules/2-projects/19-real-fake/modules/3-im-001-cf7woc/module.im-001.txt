@@ -1,0 +1,137 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Image-001 / Single Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: realfake_50_15.jpg
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Lightbox: no
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade
+
+----
+
+Group-e-end: 
+
+----
+
+Group-f-start: 
+
+----
+
+Horizontaloffset: 0
+
+----
+
+Verticaloffset: 20
+
+----
+
+Blurradius: 40
+
+----
+
+Optionalspreadradius: 10
+
+----
+
+Boxshadowcolor: rgba(224, 224, 224, 0.2)

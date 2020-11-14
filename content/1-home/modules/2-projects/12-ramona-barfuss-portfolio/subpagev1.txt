@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Ramona Barfuss Portfolio
+
+----
+
+Coverimage: ramona_title_page_50x15-2-copy.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-6apmw2, tl-007-r5odt4, im-002-1aluv11, im-001-15hm2ph, im-005-4rg7fu, ft-001-1tghkow, oc-001-1q7dr3d

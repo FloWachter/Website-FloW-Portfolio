@@ -1,0 +1,91 @@
+title: Subpage - Date, Title, Desc. and Link
+pages: false
+  build:
+    - title: _modules
+      uid: modules
+      template: submodules
+  hide: true
+files: true
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: true
+
+fields:
+  
+  previewfiles:
+    type: previewfiles
+    
+  tab-a:
+    label: Content
+    type:  tabs
+
+  title:
+    label: Page Title
+    type:  text
+    width: 2/3
+    default: Upcoming Sound Installation at The Festival of Curiosity
+
+  date:
+    label: Date
+    type: date
+    default: today
+    format: DD/MM/YYYY
+    width: 1/3
+
+  description:
+    label: Description
+    type:  textarea
+    default: I will be participating at The Festival of Curiosity this July in Dublin, producing a new interactive sound installation. The project is in collaboration with the talented Alex Rothera.
+
+  textbutton:
+    label: Text Button
+    type:  text
+    default: Read More
+
+  line-a:
+      type: line
+
+  modules:
+    label: Sub Modules / Design this detail page
+    type: modules
+
+    layout: sub
+
+    options:
+      redirect: false
+      preview: true
+      delete: true
+      limit: null
+      edit: true  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  

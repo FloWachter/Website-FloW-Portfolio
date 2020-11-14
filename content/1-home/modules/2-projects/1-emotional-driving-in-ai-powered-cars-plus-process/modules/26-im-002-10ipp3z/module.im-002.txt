@@ -1,0 +1,118 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: The Final Concept — The Feature: Motivation — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: incar_mockup-ix.jpg
+
+----
+
+Text: 
+
+##The Volvo Intuit Feature: Motivation
+—
+In order to keep the user tight to the system which makes it possible to educate the user over time for good behavior, a motivation system got implemented as one of the last features. The motivation system is linked to the maintenance and energy costs because good behavior means less yearly costs for the car and as a conclusion, the car rests longer and can produce more money as a rental car. A part of this money gets funded back to the user as a reward. This means a driver get a cost reduction of every ride according to is level of good behavior in traffic.
+The rewarding algorithm works like a taximeter as long as the drivers are not doing things like stated in the list of Poorly behavior, the driver is getting a cost reduction for every minute he is driving. This reduction can be higher and lower according to the model of the car which is used and the type of energy which is consumed (electricity or fuel). If the driver misbehaves the cost reduction is temporarily suspended for a few minutes until the misbehavior ends. This rewarding system should motivate and gamify good driving behavior for more driver and traffic safety. Gamification has proved to be very successful in engaging people and motivating them to change behaviors, develop skills, or solve problems. That’s because of the human body releases endorphins during a gamified experience that improves memory and learning abilities. This makes the education of a driver combined with gamification to a perfect combination to improve the driving experience and good driving style.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

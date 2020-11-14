@@ -1,0 +1,123 @@
+Title: FLO — W
+
+----
+
+Author: Florian Wachter
+
+----
+
+Description: This is my portfolio website, enjoy!
+
+----
+
+Copyright: © 2018 Shuffle INC. / All rights reserved.
+
+----
+
+Fontfamily: avenir
+
+----
+
+Headlineff: Roboto
+
+----
+
+Textff: Open+Sans
+
+----
+
+Categories: 
+
+----
+
+Headlinefw: 300, 400, 600
+
+----
+
+Bestband: 200, 300, 400
+
+----
+
+Textfw: 300
+
+----
+
+Latinext: false
+
+----
+
+Favicon: fv_32x32.svg
+
+----
+
+Footerdescription: Shuffle is a new model design agency specialized in the art and science of transitioning products and services into lifestyle brands. We have studios in İzmir and  İstanbul. In business since 2012.
+
+----
+
+Studios: 
+
+####Studios####
+
+İzmir <br/> Tasarım Mah.<br/> No: 35 Konak
+
+İstanbul<br/> Pazarlama Mah.<br/> No: 34 Kadıköy
+
+----
+
+Letstalk: Let's Talk
+
+----
+
+Phone: 90 800 00 50
+
+----
+
+Email: info@aristotheme.com
+
+----
+
+Menutitle: Menu
+
+----
+
+Addmenu: 
+
+- 
+  menuname: Work
+  pagelink: http://localhost:8888/shufflemodule/work
+
+----
+
+Socialtitle: Social
+
+----
+
+Sociallinks: 
+
+- 
+  title: Facebook
+  link: http://aristotheme.com/alpha/
+
+----
+
+Brandname: Shuffle INC.
+
+----
+
+Keywords: Interation,Interaction Design,UX,UI,UX Design,Prototyping
+
+----
+
+Customfont: Halyard
+
+----
+
+Mailto: aristotheme@gmail.com
+
+----
+
+Sender: aristotheme@gmail.com
+
+----
+
+Googleanalytics: 

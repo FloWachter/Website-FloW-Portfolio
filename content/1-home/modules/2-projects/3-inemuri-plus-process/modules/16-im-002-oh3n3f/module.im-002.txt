@@ -1,0 +1,121 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Experimentation — Sleep Benefits — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: inemuri-spiegel.jpg
+
+----
+
+Text: 
+
+**Sleep Benefits**
+Why we sleep has a psychic, regenerative and calibrating purpose. Mental experiences of waking stages are processed in dreams, organized and unimportant information gets erased. Regenerative in the way that organs can recover. Calibrated in the sense of the body system rhythms that mix during the day is reset to baseline. Sleep is, therefore, even if it is brief, a great way to process information and to provide the body with a brief period of regeneration.
+
+**Sleep Practices**
+In the fields of "Sleep Practices" and "Sleep Environment", I investigated "Power Naping". Sleep practices may be expressed in how to interact with the sleeping environment, but some practices are reflected in sleeping behavior. An example of this would be polyphasic sleep in which you totally change your sleep rhythm and duration of sleep.
+
+Power-nap is another much healthier practice. During the day, the concentration reduces. It's difficult to focus on a job or study. What helps is a brief day's sleep, also called Power Nap. Studies have shown that taking a power nap increases efficiency by up to 35%, says sleep expert Jürgen Zulley (professor of science at the University of Regensburg). Power Nap is not only performance-enhancing, but it is also very healthy and immune system-strengthening.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

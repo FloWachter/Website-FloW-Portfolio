@@ -1,0 +1,73 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Image-003 / Full Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: work-4.jpg
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

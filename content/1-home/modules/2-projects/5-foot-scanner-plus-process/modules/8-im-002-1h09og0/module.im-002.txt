@@ -1,0 +1,125 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Empathize — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: alejandro-escamilla-bbqlhcpvuqa-unsplash-1.jpg
+
+----
+
+Text: 
+
+**Starting Point**
+**—**
+At the beginning of the course, all participants had to find a topic in the field of data visualization.  Me and my group we discussed many topics and ideas but we decided to go for a topic which depresses us all. It was the problem of staying in a store and reading the back of a product in order to know if we can eat the product based on being a vegetarian.
+
+**Interviews**
+**—**
+We instantly jumped on the subject to set up some fundamental questions for an interview session, this was intended to find out whether or not this subject is appropriate. We were fortunate enough to study in Lindholmen, Gothenburg, which is situated in the center of a lot of tech companies that share the same cafeteria. This allows individuals from distinct areas, age groups, and genders to be interviewed to gain new perspectives. In reality, individuals agreed to our problems based on vegan and vegetarian food preferences, but we found even more insights about the large majority of individuals reporting issues with their food allergies.
+
+**User Stories**
+**—**
+From the insights we have acquired from our Interviews, we have created a collection of User Stories that will help us to empathize our target group and make it simpler to identify problems at the Define stage of the process.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: no
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

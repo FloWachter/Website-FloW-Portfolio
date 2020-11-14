@@ -1,0 +1,197 @@
+Tab-a: 
+
+----
+
+Title: Projects
+
+----
+
+Line-a: 
+
+----
+
+Projects: emotional-driving-in-ai-powered-cars-plus-process, volvo-car-patent, inemuri-plus-process, the-cyborg-experience, foot-scanner-plus-process, hannah-lea-dykast-plus-process, medilog, sonic-augmented-reality, smile, video-visualisation, weave-magazine-cover, ramona-barfuss-portfolio, pirlo-magazine-website, tangible-payment-system, vici, home, toni-heart, argofuse, real-fake
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Layout: yes
+
+----
+
+Container: uk-container-xsmall
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Gutters: uk-grid-small
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-vertical
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Group-d-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-e-end: 
+
+----
+
+Group-l-start: 
+
+----
+
+Masonry: true
+
+----
+
+Group-l-end: 
+
+----
+
+Group-m-start: 
+
+----
+
+Parallax: no
+
+----
+
+Parallaxvalue: 150
+
+----
+
+Group-m-end: 
+
+----
+
+Headline-2: 
+
+----
+
+Group-f-start: 
+
+----
+
+Titlecolor: #000000
+
+----
+
+Group-f-end: 
+
+----
+
+Group-g-start: 
+
+----
+
+Titletransition: 
+
+----
+
+Group-g-end: 
+
+----
+
+Headline-3: 
+
+----
+
+Group-i-start: 
+
+----
+
+Imagetransition: uk-transition-scale-up
+
+----
+
+Group-i-end: 
+
+----
+
+Headline-4: 
+
+----
+
+Group-j-start: 
+
+----
+
+Overlay: rgba(255, 255, 255, 0.2)
+
+----
+
+Group-j-end: 
+
+----
+
+Group-k-start: 
+
+----
+
+Overlaytransition: uk-transition-scale-up
+
+----
+
+Group-k-end: 

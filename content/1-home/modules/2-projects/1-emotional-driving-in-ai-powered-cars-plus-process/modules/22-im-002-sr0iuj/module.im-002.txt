@@ -1,0 +1,119 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: The Final Concept — The Feature: Prevention — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: driver_stressed_tracking.jpg
+
+----
+
+Text: 
+
+##The Volvo Intuit Feature: Prevention
+—
+To avoid means, prevention of stress and anger with trouble-free driving. For this reason, the Volvo intuit application uses AI to reason driving areas that are high in the potential of stress and anger and with planing it plans the most convenient route around these areas.
+This is possible with inside the car collected data about the driver by an IR camera that collects data from Bio-metrics. These cameras will be mandatory by the new EU law regulations of car safety in 2022. This makes this concept feasible by every produced car in 2022.
+In order to make a statement about the current driver traffic situation, a process called sensor fusion is necessary where data from outside and inside the car gets fused together, to generate a data set which is comparable to other data-sets. This allows an AI to classify a situation based on situations already learned.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

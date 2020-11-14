@@ -1,0 +1,178 @@
+Tab-a: 
+
+----
+
+Title: Footer
+
+----
+
+Line-a: 
+
+----
+
+Headline-1: 
+
+----
+
+Description: Florian Wachter is an Interaction Designer with a great passion for conceptual design, UX / UI design, and prototyping.
+
+----
+
+Headline-2: 
+
+----
+
+Studiotitle: Currently based in
+
+----
+
+Studios: 
+
+Stockholm,
+Sweden
+
+----
+
+Headline-3: 
+
+----
+
+Letstalk: Let's Talk
+
+----
+
+Phone: 
+
+----
+
+Email: info@florianwachter.com
+
+----
+
+Headline-4: 
+
+----
+
+Menutitle: Menu
+
+----
+
+Addmenu: 
+
+- 
+  menuname: Home
+  pagelink: http://florianwachter.com/flo-w
+- 
+  menuname: About
+  pagelink: http://florianwachter.com/flo-w/about
+- 
+  menuname: Contact
+  pagelink: http://florianwachter.com/flo-w/about
+
+----
+
+Headline-5: 
+
+----
+
+Socialtitle: Social
+
+----
+
+Sociallinks: 
+
+- 
+  title: linkedin
+  link: https://www.linkedin.com/in/flo-w/
+
+----
+
+Headline-6: 
+
+----
+
+Copyright: 
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #000000
+
+----
+
+Desccolor: #ffffff
+
+----
+
+Titlecolor: #555555
+
+----
+
+Copyrightcolor: #ffffff
+
+----
+
+Textcolor: #ffffff
+
+----
+
+Linkcolor: #ffffff
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

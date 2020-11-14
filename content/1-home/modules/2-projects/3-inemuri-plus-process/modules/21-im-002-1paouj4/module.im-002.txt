@@ -1,0 +1,121 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Prototype 01 — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_0004_edit_edit.jpg
+
+----
+
+Text: 
+
+**Prototype 01**
+The prototype was dealing with the problem of falling asleep when needed in difficult circumstances stances.
+The prototype consists of a pair of goggles with built-in LEDs, which are oscillating. Additionally, headphones are playing "Binaural Beats". Binaural beats are an auditory illusion that is heard when both ears detect a slightly different tone. Such an illusion does not take place in the ear but the cortex. It is assumed that this sound is stimulating in the brain stem of the upper olive grove where the center for spatial hearing is located. To perceive a beat to the carrier frequencies must be below 1500 Hz. The difference between the Frequencies for the left and right ear must be greater than 30 Hz, otherwise, two different tones will be heard.
+
+This prototype should have a meditative state, which increases the willingness to sleep. This allows a user to use the prototype to accelerate the process of falling asleep, for example, to have a Power-Nap.
+
+However,  the oscillating LED's had a strong effect on feeling more restless than sleepy, but the binaural beats worked excellently and got reported as very relaxing, almost meditative. For this reason, the flashing LED's got removed and the binaural beats got marked as a potential feature.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

@@ -1,0 +1,113 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Project Description — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_1366_edit_edit.jpg
+
+----
+
+Text: To find a solution for such a Cyborg problem, I developed a Cyborg proposal. The proposal is in scale between the phenomena of sleep and is focused on the day sleep in the western world of work. The proposal makes use of the **Japanese tradition of Inemuri**, which has a completely different perspective on the day sleep of the hard-working individual, in conjunction with technology attached to the human body. The Inemuri is not only a healthy but also a performance-enhancing practice for existing in the present meritocracy. The finale and exhibited prototype of my proposal is a Coat, which makes it possible to sleep at different locations. The Shape of the coat makes it easy to fall in **sleep in public**. The integrated neck cushion supports the sleep in a horizontal and sitting position. **The sleeping process will be accelerated** with build in technologies, like „binauralem Sounds“ for a getting tired very fast. At the end a light clock interrupts the sleep after 30 minutes for a soft awakening.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

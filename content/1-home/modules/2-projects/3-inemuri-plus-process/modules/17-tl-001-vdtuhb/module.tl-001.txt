@@ -1,0 +1,101 @@
+Tab-a: 
+
+----
+
+Title: 2 — Define — Title-001 / Narrow Semi-Bold Small Title and Wide Text
+
+----
+
+Line-a: 
+
+----
+
+Subtitle: Define
+
+----
+
+Text: At the Define stage, speculation on possible futures and the design of an alternative present have been created with insights and research from an emphasize stage. Speculation on the future generates future scenarios that critically question the concept of development, implementation, and use of new technologies and their wider social implications. These particular methods create a powerful narrative potential to generate ideas and proposals to solve problems in a speculative future and to criticize technological development and modern society.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-center
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

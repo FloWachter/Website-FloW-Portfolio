@@ -1,0 +1,116 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Prototype 02 — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_9960_edit_edit.jpg
+
+----
+
+Text: 
+
+**Prototype 02**
+With the second prototype I dealt with the topic of waking up. This consists of a cushion, an integrated alarm clock and special luminous materials that are incorporated into the cushion. The user should be awakened by light, no matter in which position he lies on the cushion. As assumed, the light alarm clock worked in the cushion just as well as a conventional light alarm clock. The downside of the light cushion is that the material has to be very flexible and, the used electronics have gone through multiple break downs, due to inflexibility.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

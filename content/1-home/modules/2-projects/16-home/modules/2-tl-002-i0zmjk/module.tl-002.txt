@@ -1,0 +1,73 @@
+Previewfiles: 
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-xsmall
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Imgposition: -50
+
+----
+
+Group-e-end: 
+
+----
+
+Title: Title-002 / Full Image from project

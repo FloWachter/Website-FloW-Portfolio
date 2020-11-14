@@ -1,0 +1,421 @@
+title: Project-001 / Two Columns Masonry and Parallax - Image and Narrow Light X-Small Title
+pages:
+  template:
+    - subpagev1
+  hide: true
+files: false
+options:
+  preview: false
+  status: true
+  template: false
+  url: true
+  delete: true
+hide: true
+
+fields:
+  
+  tab-a:
+    label: Content
+    type:  tabs
+
+  title:
+    label: Module Title
+    type:  text
+
+  line-a:
+    type: line
+
+  projects:
+    label: Projects
+    type:  sortable
+
+  tab-b:
+    label: Settings
+    type:  tabs
+
+  headline-1:
+    label: Module
+    type: headline
+
+  group_a_start:
+    label: Layout
+    type: panelgroup
+    position: start
+    accordion: true
+
+  layout:
+    type:        fieldtoggle
+    default:     "no"
+    options:
+      yes:       "Fullwidth"
+      no:        "Container"
+    show:
+      no:        container
+    hide:
+      yes:       container
+
+  container:
+    type: select
+    default: uk-container-large
+    icon: arrow-down
+    width: 1/1
+    options:
+      uk-container-xsmall: Xsmall
+      uk-container-small:  Small
+      uk-container-large:  Large
+      uk-container-expand: Expand
+
+  group_a_end:
+    type: panelgroup
+    position: end
+
+  group_b_start:
+    label: Gutter modifiers
+    type: panelgroup
+    position: start
+    accordion: true
+
+  gutters:
+    type: select
+    icon: arrow-down
+    default: uk-grid-large
+    width: 1/1
+    options:
+      uk-grid-small: Small
+      uk-grid-medium: Medium
+      uk-grid-large: Large
+      uk-grid-collapse: Collapse
+
+  group_b_end:
+    type: panelgroup
+    position: end
+
+  group_c_start:
+    label: Space
+    type: panelgroup
+    position: start
+    accordion: true
+
+  addpadding:
+    label: Add Space
+    type: select
+    default: uk-section-large
+    icon: arrow-down
+    width: 1/2
+    options:
+      uk-section-xsmall:  Xsmal
+      uk-section-small:   Small
+      uk-section-large:   Large
+      uk-section-xlarge:  Xlarge
+
+  removepadding:
+    label: Remove Space
+    type: select
+    icon: arrow-down
+    width: 1/2
+    options:
+      uk-padding-remove-vertical:   Remove Vertical Space
+      uk-padding-remove-horizontal: Remove Horizontal Space
+      uk-padding-remove-right:      Remove Right Space
+      uk-padding-remove-left:       Remove Left Space
+      uk-padding-remove-bottom:     Remove Bottom Space
+      uk-padding-remove-top:        Remove Top Space
+      uk-padding-remove:            Remove All Padding
+
+  group_c_end:
+    type: panelgroup
+    position: end
+ 
+
+  group_d_start:
+    label: Background Color
+    type: panelgroup
+    position: start
+    accordion: true
+
+  bgcolor:
+    type:  color
+    default: '#FFFFFF'
+    width: 1/1
+    opacity: true
+
+  group_d_end:
+    type: panelgroup
+    position: end
+
+  group_e_start:
+    label: Scrollspy
+    type: panelgroup
+    position: start
+    accordion: true
+
+  scrollspy:
+    label: Animations
+    type: select
+    default: uk-animation-slide-bottom-medium
+    help: A collection of smooth animations to use for your item.
+    icon: arrow-down
+    width: 2/5
+    options:
+      uk-animation-fade:                  Fade
+      uk-animation-scale-up:              Scale Up
+      uk-animation-scale-down:            Scale Down
+      uk-animation-slide-top:             Slide Top
+      uk-animation-slide-bottom:          Slide Bottom
+      uk-animation-slide-left:            Slide Left
+      uk-animation-slide-right:           Slide Right
+      uk-animation-slide-top-small:       Slide Top Small
+      uk-animation-slide-bottom-small:    Slide Bottom Small
+      uk-animation-slide-left-small:      Slide Left Small
+      uk-animation-slide-right-small:     Slide Right Small
+      uk-animation-slide-top-medium:      Slide Top Medium
+      uk-animation-slide-bottom-medium:   Slide Bottom Medium
+      uk-animation-slide-left-medium:     Slide Left Medium
+      uk-animation-slide-right-medium:    Slide Right Medium
+      uk-animation-shake:                 Shake
+ 
+
+  scrollspydelay:
+    label: Delay
+    default: 300
+    type: text
+    help: Delay time in ms.
+    width: 1/5
+
+  scrollspyrepeat:
+    label: Repeat
+    type:  switch
+    texts: 
+      - Repeat is ON
+      - Repeat is OFF
+    help: Every time the element is in view.
+    width: 2/5
+  
+  group_e_end:
+    type: panelgroup
+    position: end
+
+  group_l_start:
+    label: Masonry
+    type: panelgroup
+    position: start
+    accordion: true
+
+  masonry:
+    type:  switch
+    text: You can turn me on and off
+    help: If grid cells have different heights
+    width: 1/1
+  
+  group_l_end:
+    type: panelgroup
+    position: end
+
+  group_m_start:
+    label: Parallax
+    type: panelgroup
+    position: start
+    accordion: true
+
+  parallax:
+    help: To move single columns of a grid at different speeds while scrolling,
+    type:        fieldtoggle
+    default:     "yes"
+    options:
+      yes:       "Yes"
+      no:        "No"
+    show:
+      yes:       parallaxvalue
+    hide:
+      no:        parallaxvalue
+
+  parallaxvalue:
+    label: Parallax Value
+    type: number
+    help: The number sets the parallax translation in pixels.
+    default: 150
+    width: 1/1
+
+  group_m_end:
+    type: panelgroup
+    position: end
+
+  headline-2:
+    label: Title
+    type: headline
+
+  group_f_start:
+    label: Color
+    type: panelgroup
+    position: start
+    accordion: true
+
+  titlecolor:
+    type:  color
+    default: '#000000'
+    width: 1/1
+    opacity: true
+
+  group_f_end:
+    type: panelgroup
+    position: end
+
+  group_g_start:
+    label: Transition
+    type: panelgroup
+    position: start
+    accordion: true
+
+  titletransition:
+    type: select
+    help: Create smooth transitions between two states when hovering an element.
+    icon: arrow-down
+    width: 1/1
+    options:
+      uk-transition-fade:                  Fade
+      uk-transition-scale-up:              Scale Up
+      uk-transition-scale-down:            Scale Down
+      uk-transition-slide-top:             Slide Top
+      uk-transition-slide-bottom:          Slide Bottom
+      uk-transition-slide-left:            Slide Left
+      uk-transition-slide-right:           Slide Right
+      uk-transition-slide-top-small:       Slide Top Small
+      uk-transition-slide-bottom-small:    Slide Bottom Small
+      uk-transition-slide-left-small:      Slide Left Small
+      uk-transition-slide-right-small:     Slide Right Small
+      uk-transition-slide-top-medium:      Slide Top Medium
+      uk-transition-slide-bottom-medium:   Slide Bottom Medium
+      uk-transition-slide-left-medium:     Slide Left Medium
+      uk-transition-slide-right-medium:    Slide Right Medium
+ 
+  
+  group_g_end:
+    type: panelgroup
+    position: end
+
+
+  headline-3:
+    label: Image
+    type: headline
+
+
+  group_i_start:
+    label: Transition
+    type: panelgroup
+    position: start
+    accordion: true
+
+  imagetransition:
+    type: select
+    default: uk-transition-scale-up
+    help: Create smooth transitions between two states when hovering an element.
+    icon: arrow-down
+    width: 1/1
+    options:
+      uk-transition-scale-up:              Scale Up
+      uk-transition-slide-top-small:       Slide Top Small
+      uk-transition-slide-bottom-small:    Slide Bottom Small
+      uk-transition-slide-top-medium:      Slide Top Medium
+      uk-transition-slide-bottom-medium:   Slide Bottom Medium
+ 
+  
+  group_i_end:
+    type: panelgroup
+    position: end
+
+
+  headline-4:
+    label: Overlay
+    type: headline
+
+  group_j_start:
+    label: Color
+    type: panelgroup
+    position: start
+    accordion: true
+
+  overlay:
+    type:  color
+    default: 'rgba(255, 255, 255, 0)'
+    width: 1/1
+    opacity: true
+
+  group_j_end:
+    type: panelgroup
+    position: end
+
+
+  group_k_start:
+    label: Transition
+    type: panelgroup
+    position: start
+    accordion: true
+
+  overlaytransition:
+    type: select
+    default: uk-transition-fade
+    help: Create smooth transitions between two states when hovering an element.
+    icon: arrow-down
+    width: 1/1
+    options:
+      uk-transition-fade:                  Fade
+      uk-transition-scale-up:              Scale Up
+      uk-transition-scale-down:            Scale Down
+      uk-transition-slide-top:             Slide Top
+      uk-transition-slide-bottom:          Slide Bottom
+      uk-transition-slide-left:            Slide Left
+      uk-transition-slide-right:           Slide Right
+      uk-transition-slide-top-small:       Slide Top Small
+      uk-transition-slide-bottom-small:    Slide Bottom Small
+      uk-transition-slide-left-small:      Slide Left Small
+      uk-transition-slide-right-small:     Slide Right Small
+      uk-transition-slide-top-medium:      Slide Top Medium
+      uk-transition-slide-bottom-medium:   Slide Bottom Medium
+      uk-transition-slide-left-medium:     Slide Left Medium
+      uk-transition-slide-right-medium:    Slide Right Medium
+ 
+  
+  group_k_end:
+    type: panelgroup
+    position: end
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

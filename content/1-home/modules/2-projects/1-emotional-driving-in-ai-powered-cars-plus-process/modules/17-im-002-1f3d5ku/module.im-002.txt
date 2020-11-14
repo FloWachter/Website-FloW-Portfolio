@@ -1,0 +1,119 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Prototyping & Testing  — Formative Usability Evaluation — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: paper_prototype.jpg
+
+----
+
+Text: 
+
+##Formative Usability Evaluation
+—
+_Formative Usability Evaluation supports identifying which part of the concept works and does not work and why. It is also frequently used in a design process to support rapid iteration to improve the concept. The method is used to build up tasks to be completed by the users, to ask them to think aloud and monitor the user behavior, to find out when the user is struggling._
+
+The first version of the idea was born with participants who were found in my instant environment. The participants were people from Volvo car UX Design Studio. The testing was organized into a task for each function. The participants had to thing out loud and the problems that occur during the testing were discussed instantly.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

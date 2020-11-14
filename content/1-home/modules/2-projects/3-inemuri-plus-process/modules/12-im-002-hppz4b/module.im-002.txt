@@ -1,0 +1,119 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Experimentation — Experience Journey Meditation — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: screensho.png
+
+----
+
+Text: 
+
+## Experimentation & Research
+—
+**Experience Journey Meditation**
+In the subcategory "Sleep Promotion" I examined the topic "meditation". I signed up for a basic meditation course. The meditation course included a guided meditation with ten participants and a trainer. The basic course took place once a week and lasted 45 minutes each.
+Already after the first meditation session, I felt a deep relaxation and satisfaction of myself, which continued over the following weeks after each session and beyond.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

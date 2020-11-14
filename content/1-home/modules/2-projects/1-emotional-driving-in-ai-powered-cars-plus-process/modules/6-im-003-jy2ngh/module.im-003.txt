@@ -1,0 +1,73 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Design Thinking — Image-003 / Full Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: designthinking.jpg
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-xsmall
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

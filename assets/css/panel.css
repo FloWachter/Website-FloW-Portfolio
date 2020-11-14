@@ -1,0 +1,46 @@
+.breadcrumb-link[title="_modules"] {
+  display: none;
+}
+
+.sub-layout {
+	background : #FFFCEB;
+}
+
+.form-blueprint-checklist > fieldset {
+  min-width: 0;
+}
+
+@-moz-document url-prefix() {
+  .form-blueprint-checklist > fieldset {
+    display: table-cell;
+  }
+}
+
+/* disable global actions */
+.field-is-readonly .sortable__action,
+.field-is-readonly .sortable__action .icon {
+  pointer-events: none;
+  color: #c9c9c9;
+}
+
+/* disable sorting */
+.field-is-readonly .sortable [data-handle] {
+  pointer-events: none;
+  color: #c9c9c9;
+}
+
+/*
+ * enable entry actions
+ * only necessary when you want to disable
+ * sorting but still want the actions to work
+ */
+.field-is-readonly .sortable-layout__action {
+  pointer-events: auto;
+}
+
+/* disable entry actions */
+.field-is-readonly .sortable-layout__action {
+  pointer-events: none;
+  color: #c9c9c9;
+}
+
