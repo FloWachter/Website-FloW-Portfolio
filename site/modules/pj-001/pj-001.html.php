@@ -38,6 +38,9 @@
 						<a href="<?= $project->url(); ?>" class="uk-position-cover" ></a>
 					</div>
 					<h3 class="f4 f3@m fw5 lh-solid measure-narrow uk-margin-bottom uk-margin-top <?php if($module->gutters() == 'uk-grid-collapse'): ?> uk-padding uk-padding-remove-vertical <?php else: ?> uk-margin-top <?php endif ?> <?php if($module->layout() == 'yes'): ?> uk-padding uk-padding-remove-vertical <?php endif ?> lh-solid <?= $module->titletransition() ?> <?= str::slug($site->headlineff()->html()) ?>" style="color: <?= $module->titlecolor() ?>"><?= $project->title()->html() ?></h3>
+					<div class="f7 f6@m <?= str::slug($site->headlineff()->html()) ?> lh-title uk-text-uppercase tracked-mega fw6 <?php if($module->textalign() == 'uk-text-right'): ?> uk-margin-auto-left <?php endif ?> <?php if($module->textalign() == 'uk-text-center'): ?> uk-margin-auto <?php endif ?>" style="color: <?= $module->uppernotecolor() ?>">
+						<?= $project->children()->children()->nth(2)->uppernote()->html() ?>
+					</div>
 
 				</div>
 			</div>
