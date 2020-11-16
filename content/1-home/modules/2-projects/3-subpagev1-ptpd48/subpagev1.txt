@@ -6,11 +6,11 @@ Tab-a:
 
 ----
 
-Title: Volvo Car Patent
+Title: How to build a Design System
 
 ----
 
-Coverimage: frame-1.png
+Coverimage: 1_jfdwtvu6v6g99q3g7gq7dq.png
 
 ----
 

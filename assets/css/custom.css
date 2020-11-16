@@ -28,3 +28,17 @@
 	background-repeat: no-repeat;
 }
 
+/* .projects {
+	max-width: 1600px;
+	margin: 0 auto;
+		
+} */
+
+.project-subtilt {
+	/* for pj-00 module */
+	font-size: 1em;
+	padding: 0;
+	margin: 0;
+}
+
+
