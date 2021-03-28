@@ -1,0 +1,161 @@
+Tab-a: 
+
+----
+
+Title: Education
+
+----
+
+Line-a: 
+
+----
+
+Teams: 
+
+- 
+  name: >
+    Chalmers University of Technology,
+    Sweden
+  photo: frame-1331.jpg
+  position: M.Sc. Interaction Design and Technology
+  weblink: https://www.chalmers.se
+- 
+  name: >
+    Zurich University of the Arts,
+    Switzerland
+  photo: frame-1332.jpg
+  position: B.A. Interaction design
+  weblink: https://www.zhdk.ch/
+- 
+  name: Technical School of Aalen Germany
+  photo: frame-1333.jpg
+  position: IT specialist Apprenticeship
+  weblink: http://www.ts-aalen.de/cms/
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Layout: no
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Gutters: uk-grid-large
+
+----
+
+Group-e-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Positioncolor: #555555
+
+----
+
+Phonecolor: #555555
+
+----
+
+Emailcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Group-f-start: 
+
+----
+
+Bgblend: 
+
+----
+
+Bgblendcolor: #ffffff
+
+----
+
+Group-f-end: 
+
+----
+
+Group-g-start: 
+
+----
+
+Contentalign: uk-text-left
+
+----
+
+Group-g-end: 

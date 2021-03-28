@@ -14,7 +14,7 @@ Headline-1:
 
 ----
 
-Description: Florian Wachter is an Interaction Designer with a great passion for conceptual design, UX / UI design, and prototyping.
+Description: I am a Product Designer with a passion for development.
 
 ----
 
@@ -37,7 +37,7 @@ Headline-3:
 
 ----
 
-Letstalk: Let's Talk
+Letstalk: Contact me
 
 ----
 
@@ -60,14 +60,14 @@ Menutitle: Menu
 Addmenu: 
 
 - 
-  menuname: Home
-  pagelink: http://florianwachter.com/flo-w
-- 
   menuname: About
-  pagelink: http://florianwachter.com/flo-w/about
+  pagelink: http://florianwachter.com
+- 
+  menuname: Work
+  pagelink: http://florianwachter.com/work
 - 
   menuname: Contact
-  pagelink: http://florianwachter.com/flo-w/contact
+  pagelink: http://florianwachter.com/contact
 
 ----
 
@@ -84,6 +84,9 @@ Sociallinks:
 - 
   title: linkedin
   link: https://www.linkedin.com/in/flo-w/
+- 
+  title: github
+  link: https://github.com/FloWachter
 
 ----
 

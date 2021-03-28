@@ -1,0 +1,117 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Digital Art
+
+----
+
+Subtitle: A Visualisations of Video data in a digital 3D room
+
+----
+
+Text: 
+
+This project was at the beginning an experimental about what else is possible to do with videos. A video consists of various pixels, which vary in color and contrast. These data can be used to position a pixel in a 3-dimensional room creating completely new and fascinating pictures and videos based on the observer's location. The video below presents some of the most interesting views that I have generated through experiments on various video data.
+
+<iframe src="https://player.vimeo.com/video/115178778" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Through more experiments, I discovered that in these pixel worlds, I can create surfaces between different pixels.   This has created many more advanced forms to explore. Many of these different shapes and patterns can be viewed in a book that can be found in the link below.
+
+(link: https://issuu.com/florianrastabob/docs/the_video_visualization text: Read the Book to the Project here!)
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: A Concept for future work behavior of digital nomads
+
+----
+
+Coverimage: video_visualisation_50x15-copy.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-i0zmjk, tl-007-r5odt4, im-001-cf7woc, ft-001-1tghkow, oc-001-1q7dr3d

@@ -1,0 +1,112 @@
+Tab-a: 
+
+----
+
+Title: Headline and description — Title-007 / Upper Note,
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Freelancer Work
+
+----
+
+Subtitle: Hannah Lea Dykast Portfolio Website
+
+----
+
+Text: 
+
+Hannah Lea Dykast is a designer based in Zurich, Switzerland. She has worked and studied in many distinct areas of design for several years. At the same time, this aspect made it interesting and challenging to develop an appropriate concept to present its variety of work.
+I have developed a concept that visualizes the design areas in a triangle-based graphic. The largest triangle is the field with the most projects and the smallest with fewer projects. If one of the triangles is clicked, the user will be immersed in the project list of the field and will be able to discover the work.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

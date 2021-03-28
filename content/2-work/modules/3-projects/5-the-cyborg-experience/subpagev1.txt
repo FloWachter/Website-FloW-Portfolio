@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Chip implant as a cyborg experience
+
+----
+
+Coverimage: img_7157.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-16e237, tl-007-r5odt4, im-001-1m5b4nt, im-001-1nmgrz2, ft-001-1tghkow, oc-001-1q7dr3d

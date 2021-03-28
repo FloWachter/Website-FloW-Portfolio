@@ -23,16 +23,16 @@
 }
 
 .uk-project-loading {
-	background-image: url('/flo-w/assets/images/loader.gif');
-	background-position: center center;
-	background-repeat: no-repeat;
+	/*background-image: url('/flo-w/assets/images/loader.gif');
+	background-position: top center;
+	background-repeat: no-repeat;*/
 }
 
-/* .projects {
+ .projects {
 	max-width: 1600px;
 	margin: 0 auto;
 		
-} */
+} 
 
 .project-subtilt {
 	/* for pj-00 module */

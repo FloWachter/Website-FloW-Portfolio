@@ -1,0 +1,119 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Competition
+
+----
+
+Subtitle: A Concept for future work behavior of digital nomads
+
+----
+
+Text: 
+
+This concept with the title «home.» is based on the premise of future work behavior which explores the central issue of the new work era: the isolation of the digital nomad. «Home» creates a digital environment to endure the nomad's loneliness through technology. It includes the idea of an individually designed room that merges the real and digital perception.
+
+The concept was created within a group of me, Mario Rütimann, Rene Odermatt, Kristian Marjanovic, in 24h.
+
+The concept «home.» won the prize of «Best Future Concept» at the designathon 2015 at the Zurich University of the Arts.
+
+<iframe src="https://player.vimeo.com/video/142278360" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<a href="https://youtu.be/ixa8GVUV_Sw?t=770">The home. Pressentation</a>
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

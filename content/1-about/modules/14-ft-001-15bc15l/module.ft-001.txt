@@ -1,0 +1,181 @@
+Tab-a: 
+
+----
+
+Title: Footer
+
+----
+
+Line-a: 
+
+----
+
+Headline-1: 
+
+----
+
+Description: I am a Product Designer with a passion for development.
+
+----
+
+Headline-2: 
+
+----
+
+Studiotitle: Currently based in
+
+----
+
+Studios: 
+
+Stockholm,
+Sweden
+
+----
+
+Headline-3: 
+
+----
+
+Letstalk: Contact me
+
+----
+
+Phone: 
+
+----
+
+Email: info@florianwachter.com
+
+----
+
+Headline-4: 
+
+----
+
+Menutitle: Menu
+
+----
+
+Addmenu: 
+
+- 
+  menuname: About
+  pagelink: http://florianwachter.com
+- 
+  menuname: Work
+  pagelink: http://florianwachter.com/work
+- 
+  menuname: Contact
+  pagelink: http://florianwachter.com/contact
+
+----
+
+Headline-5: 
+
+----
+
+Socialtitle: Social
+
+----
+
+Sociallinks: 
+
+- 
+  title: linkedin
+  link: https://www.linkedin.com/in/flo-w/
+- 
+  title: Github
+  link: https://github.com/FloWachter
+
+----
+
+Headline-6: 
+
+----
+
+Copyright: 
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #000000
+
+----
+
+Desccolor: #ffffff
+
+----
+
+Titlecolor: #555555
+
+----
+
+Copyrightcolor: #ffffff
+
+----
+
+Textcolor: #ffffff
+
+----
+
+Linkcolor: #ffffff
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
