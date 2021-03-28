@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: An app that helps people with special food allergies to shop groceries
+
+----
+
+Coverimage: mockup_caffee_small.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-9mjahw, tl-007-r5odt4, im-002-1aluv11, tl-003-1d8m1um, im-003-vghgy3, tl-001-akaxy8, im-002-1h09og0, tl-001-13fk865, im-002-1ldunwk, tl-001-lr19zl, im-002-r23liy, im-002-1ub5vor, tl-001-m0kmlp, im-002-qhal1g, tl-001-19438ip, im-002-197sxkx, im-002-zeonq4, im-001-1488za7, ft-001-1tghkow, oc-001-1q7dr3d

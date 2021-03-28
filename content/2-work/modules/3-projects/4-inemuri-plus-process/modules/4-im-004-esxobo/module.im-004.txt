@@ -1,0 +1,97 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Image-004 / Left Image and Video
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: inemuri_cover.jpg
+
+----
+
+Text: 
+
+<iframe src="https://player.vimeo.com/video/170350588" width="320" height="170" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+(link: https://issuu.com/florianrastabob/docs/bachelor_dokumentation_florian_wach text: Read the Bachelor Thesis here!)
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-xsmall
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #000000
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

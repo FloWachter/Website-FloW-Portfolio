@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: A laminate which generates electricity under pressure, vibration, and deformation
+
+----
+
+Coverimage: argofuse2.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1i73201, tl-007-r5odt4, im-002-1aluv11, im-001-cf7woc, im-001-15hm2ph, ft-001-1tghkow, oc-001-1q7dr3d

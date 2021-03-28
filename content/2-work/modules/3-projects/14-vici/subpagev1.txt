@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Vici a fictitiously futuristic wearable for spatial perception
+
+----
+
+Coverimage: 03_ls_fw_vici.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-16afdqu, tl-007-r5odt4, im-001-cf7woc, im-001-15hm2ph, im-005-1z10t04, ft-001-1tghkow, oc-001-1q7dr3d

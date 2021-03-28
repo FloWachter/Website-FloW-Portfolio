@@ -1,0 +1,117 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Text & Image — Most powerful ability
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: 33_buildingpumpsystem.jpg
+
+----
+
+Text: 
+
+**Most powerful ability**
+
+Over the last years, I **worked in many different fields** and roles; including  IT, **Front-end Development**, **UX/UI Design** within IT companies, the **automotive industry** as well as for **Design Agencies**.  Within my jobs and roles, I worked on **development and design at the same time**,  where I created **hybrid design abilities**.  With these abilities, I can prototype hi- and low fidelity concepts with both digital and analog technologies to acquire rapid knowledge and **explore potential ideas**. Not only does it save time and budget, it also pushes ideas forward and provides the best possible result for my clients.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: no
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

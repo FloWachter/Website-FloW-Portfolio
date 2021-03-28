@@ -1,0 +1,113 @@
+Tab-a: 
+
+----
+
+Title: Headline and intro and video — Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: Master Study Project
+
+----
+
+Subtitle: An app that helps people with special food allergies to shop groceries
+
+----
+
+Text: 
+
+Food Scanner is an app that helps people who have special food allergies or the want to avoid eating meat - like vegetarians, but also people who want to avoid to eat specific food ingredients. The app works with a barcode-scanner-web-technology and a specific filter-algorithm which works over a product database.
+The filter algorithms search in the product description for ingredients which the user avoids to eat.
+If the user is in a grocery store and wants to check a product to find out whether he can eat the product, he can scan the product and the app warns the user if there is a match with preset filter settings in the app.
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

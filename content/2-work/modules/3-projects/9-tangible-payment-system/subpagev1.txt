@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: A tangible payment system that treats collected data as currency
+
+----
+
+Coverimage: 37328878_10214312070213930_11950789450792960_n.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1vmyx7w, tl-007-r5odt4, im-002-1aluv11, im-005-ltnb1t, ft-001-1tghkow, oc-001-1q7dr3d

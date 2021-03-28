@@ -1,0 +1,124 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Possible Future — Image-002 / Left Lead and Right Image
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: photo-1526860474862-d2c1d76aed1f.jpg
+
+----
+
+Text: 
+
+##Possible Future
+## —
+I found, through research and experiments that sleeping is essential to life! However, humans are trying to dominate, sleep more efficiently in the belief of being more effective in life. In our hyper-fast-moving world, there is a seduction to domesticate human essential needs for human performance. Such seduction often indulges in engineering to strengthen themselves. This form of human behavior aims for a significantly altered human, which can be described as post-humanism. 
+The underlying motivation for an altered human is the core belief that the human species in its present form does not mark the culmination of our creation, but rather the beginning.
+
+Post-humanism is an idea out of the movement called Transhumanism, which gets defined as  "the intellectual and cultural movement that affirms the possibility and desirability of fundamentally improving the human condition through applied reason, especially by using technology to eliminate aging and greatly enhance human intellectual, physical, and psychological capacities" (Nick Bostrum, 1999)
+
+In fact, it is important to note that the idea of a new type of human being does not sound enticing to everyone. Unfortunately, it didn't even sound enticing to my university! But in conclusion, it is to say, either you are a person who is for or against the idea of post-humanism,  you will probably not have the chance to escape from it. 
+
+Based on this, there are two different ways to deal with such a situation, I could go deeper and try to find the sociological aspects of why humans want to make themselves perform better all the time, which would go beyond the scope. Or, I could create an object that would make it possible for post-humans to survive in such a performance-driven society. I decided on the last one!
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-small
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 
+
+----
+
+Lightbox: yes
+
+----
+
+Lightboxanimation: slide
+
+----
+
+Overlay: rgba(255, 255, 255, 0.7)
+
+----
+
+Iconcolor: rgba(0, 0, 0, 1)
+
+----
+
+Overlaytransition: uk-transition-fade

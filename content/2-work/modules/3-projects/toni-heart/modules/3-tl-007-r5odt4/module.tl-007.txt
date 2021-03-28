@@ -1,0 +1,116 @@
+Tab-a: 
+
+----
+
+Title: Title-007 / Upper Note, Narrow Semi-Bold Title and Wide Lead
+
+----
+
+Line-a: 
+
+----
+
+Uppernote: BACHELOR STUDY PROJECT
+
+----
+
+Subtitle: Soft architecture Installation
+
+----
+
+Text: 
+
+The project with the title “Toni Heart” was a module within the framework of the 4th semester at the ZHdK. The topic of that module was “soft architecture” with “soft actuators”, which were planned, designed, and produced of silicone. In order to create a movement of the “soft actuators”, air-compressors were used. 
+A team of six interaction designers (including myself) consulted the planning and implementation of the project. My particular task within the project was the planning of the “soft actuators” as well as the technical implementation of the electronic pumping system with electronic control elements (Arduino). Besides that, I designed various valve assemblies for blowing off the air out of the “soft actuators”.
+
+This project was realized in cooperation with: Nora Geiler (IAD), Mona Neubauer (IAD), Thomas Schertenleib (IAD), Nicol Schulthess (IAD) and John Wittmer (IAD).
+
+<iframe src="https://player.vimeo.com/video/135663597" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+----
+
+Tab-b: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Titlecolor: #000000
+
+----
+
+Uppernotecolor: #aaaaaa
+
+----
+
+Desccolor: #555555
+
+----
+
+Group-c-end: 
+
+----
+
+Group-e-start: 
+
+----
+
+Textalign: uk-text-left
+
+----
+
+Group-e-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

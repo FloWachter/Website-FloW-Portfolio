@@ -1,0 +1,97 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Me and contact me
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: img_7619-2-1.jpg
+
+----
+
+Text: 
+
+**Florian Wachter**
+M.Sc / B.A. Interaction Designer
+(email: info@florianwachter.com text: Send me an email)
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-large
+
+----
+
+Removepadding: 
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #000000
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

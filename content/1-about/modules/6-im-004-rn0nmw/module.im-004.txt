@@ -1,0 +1,98 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: Text & Image — I AM
+
+----
+
+Line-a: 
+
+----
+
+Onlyimage: 3-c-0-h-554.bild.jpg
+
+----
+
+Text: 
+
+**I am**
+
+I am a designer who likes art, crazy futuristic technologies and to challenge myself. I **easily get curious** about new things and **enjoy learning** about new topics, which the variety of my projects and background suggests. 
+Design not only takes place in my profession but also plays a significant role in my personal life; in side-projects with friends or in creating, **coding** and **experimenting within Design**. I also take care of a lot of **hobbies**, including skateboarding, surfing, and building and flying freestyle drones.
+
+----
+
+Tab-b: 
+
+----
+
+Headline-1: 
+
+----
+
+Group-a-start: 
+
+----
+
+Container: uk-container-large
+
+----
+
+Group-a-end: 
+
+----
+
+Group-b-start: 
+
+----
+
+Addpadding: uk-section-xsmall
+
+----
+
+Removepadding: uk-padding-remove-top
+
+----
+
+Group-b-end: 
+
+----
+
+Group-c-start: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Textcolor: #000000
+
+----
+
+Group-c-end: 
+
+----
+
+Group-d-start: 
+
+----
+
+Scrollspy: uk-animation-slide-bottom-medium
+
+----
+
+Scrollspydelay: 300
+
+----
+
+Scrollspyrepeat: false
+
+----
+
+Group-d-end: 

@@ -1,0 +1,25 @@
+Previewfiles: 
+
+----
+
+Tab-a: 
+
+----
+
+Title: An app that compares recorded drugs concerning compatibility
+
+----
+
+Coverimage: medicin_acceped_2_1.jpg
+
+----
+
+Line-a: 
+
+----
+
+Linksubpage: yes
+
+----
+
+Modules: nv-001-13op7ao, tl-002-1t0vfxg, tl-007-r5odt4, im-002-dt7zz1, im-005-2tc713, ft-001-1tghkow, oc-001-1q7dr3d
